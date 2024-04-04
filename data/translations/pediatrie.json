@@ -1,0 +1,446 @@
+[
+    {
+        "cz_translation": "Dobrý den, jmenuji se …, jsem lékař / zdravotní sestra.",
+        "cz_transcription": "",
+        "ua_translation": "Добрий день, мене звуть …, я лікар / медична сестра.",
+        "ua_transcription": "Dobryj deň, mene zvuť …, ja likar / medyčna sestra."
+    },
+    {
+        "cz_translation": "Můžete nám dát kontakt na někoho, kdo je schopen tlumočit po telefonu?",
+        "cz_transcription": "",
+        "ua_translation": "Чи можете Ви дати нам контакт когось, хто здатний перекладати по телефону?",
+        "ua_transcription": "Čy možete Vy daty nam kontakt kohos, chto zdatnyj perekladaty po telefonu?"
+    },
+    {
+        "cz_translation": "Napište mi, prosím, Vaše jméno/Vašeho dítěte a datum narození.",
+        "cz_transcription": "",
+        "ua_translation": "Напишіть мені , будь ласка, Ваше ім'я / ім'я Вашої дитини і дату народження.",
+        "ua_transcription": "Napyšiť meni , buď laska, Vaše imja / ijma Vašoji dytyny i datu narodžeňňa."
+    },
+    {
+        "cz_translation": "Máte/má Vaše dítě nějaký doklad totožnosti? Máte/má Vaše dítě zdravotní pojištění? Máte/má Vaše dítě doklad o zdravotním pojištění?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас / Вашої дитини документ, що засвідчує особу? У Вас / Вашої дитини є медична страховка? У Вас / Вашої дитини є підтвердження про медичне страхування?",
+        "ua_transcription": "Čy je u Vas / Vašoji dytyny dokument, ščo zasvidčuje osobu? U Vas / Vašoji dytyny je medyčna strachovka? U Vas / Vašoji dytyny je pidtverdžeňňa pro medyčne strachuvaňňa?"
+    },
+    {
+        "cz_translation": "Napište, prosím, Vaši adresu. Uveďte, prosím, kontakt na Vaše blízké, kteří se o Vás mohou postarat.",
+        "cz_transcription": "",
+        "ua_translation": "Напишіть свою адресу, будь ласка. Будь ласка, вкажіть контактні дані Ваших близьких, які можуть піклуватися про Вас.",
+        "ua_transcription": "Napyšiť svoju adresu, buď laska. Buď laska, vkažiť kontaktni dani Vašych blyzkych, jaki možuť pikluvatysja pro Vas."
+    },
+    {
+        "cz_translation": "Jste/ je Vaše dítě v České republice registrován u praktického lékaře? Napište mi, prosím, jeho jméno a kontaktní údaje.",
+        "cz_transcription": "",
+        "ua_translation": "Ви / Ваша дитина в Чеській Республіці зареєстровані у дільничного лікаря? Будь ласка, напишіть його ім'я та контактні дані.",
+        "ua_transcription": "Vy / Vaša dytyna v Českij Respublici zarejestrovani u dilnyčnoho likarja? Buď laska, napyšiť joho imja ta kontaktni dani"
+    },
+    {
+        "cz_translation": "Byl jste/ bylo Vaše dítě už v České republice vyšetřen u nějakého lékaře? Napište mi, prosím, jeho jméno a kontaktní údaje.",
+        "cz_transcription": "",
+        "ua_translation": "Були Ви / Ваша дитина в Чехії оглянуті лікарем? Будь ласка, напишіть його ім'я та контактні дані",
+        "ua_transcription": "Buly Vy / Vaša dytyna v Čechiji ohljanuti likarem? Buď laska, napyšiť joho imja ta kontaktni dani."
+    },
+    {
+        "cz_translation": "S jakými obtížemi přicházíte? Co Vás trápí? Je dítě schopno samotné pojmenovat obtíže?",
+        "cz_transcription": "",
+        "ua_translation": "З якими проблемами Ви прийшли? Що Вас турбує? Дитина в змозі визначити сама фактичні проблеми?",
+        "ua_transcription": "Z jakymy problemamy Vy pryjšly? Ščo Vas turbuje? Dytyna v zmozi vyznačyty sama faktyčni problemy?"
+    },
+    {
+        "cz_translation": "Jak dlouho Vaše obtíže/ Vašeho dítěte trvají (den, týden, měsíc, rok)?",
+        "cz_transcription": "",
+        "ua_translation": "Як довго Ваші проблеми / Вашої дитини тривають (день, тиждень, місяць, рік)?",
+        "ua_transcription": "Jak dovho Vaši problemy / Vašoji dytyny tryvajuť (deň, tyždeň, misjac, rik)?"
+    },
+    {
+        "cz_translation": "Jste/je Vaše dítě u nás registrováno u praktického lékaře pro děti a dorost? Kde / u koho?",
+        "cz_transcription": "",
+        "ua_translation": "Ви / Ваша дитина зареєстровані у лікаря загальної практики для дітей і підлітків? Де / в кого?",
+        "ua_transcription": "Vy / Vaša dytyna zerejestrovani u likarja zahaljnoji praktyky dlja ditej i pidlitkiv?"
+    },
+    {
+        "cz_translation": "Byl Vám/Vašemu dítěti vystaven zdravotní a očkovací průkaz?",
+        "cz_transcription": "",
+        "ua_translation": "Була Вам / Вашій дитині видана медична книжка та картка щеплень?",
+        "ua_transcription": "Bula Vam / Vašij dytyni vydana medyčna knyžka ta kartka ščepleň?"
+    },
+    {
+        "cz_translation": "Byl/a jste/ bylo Vaše dítě očkováno u nás v ČR nebo v zemi, odkud přichází?",
+        "cz_transcription": "",
+        "ua_translation": "Були Ви / Ваша дитина щеплені в нашій країні або в країні, звідки походите?",
+        "ua_transcription": "Buly Vy / Vaša dytyna ščepleni v našij krajini abo v krajini, zvidky pochodyte?"
+    },
+    {
+        "cz_translation": "Léčíte se/léči se Vaše dítě v souvislosti s nějakým chronickým onemocněním (vysoký krevní tlak, cukrovka, onemocnění srdce, cév, plic, trávicího systému, nervového systému, močopohlavního systému, onemocnění štítné žlázy, jater, ledvin, poruchy srážlivosti krve, tromboembolické onemocnění, psychické onemocnění či jiné onemocnění)?",
+        "cz_transcription": "",
+        "ua_translation": "Лікуєтесь Ви / Ваша дитина у зв'язку з якими-небудь хронічними захворюваннями (високий кров'яний тиск, діабет, хвороби серця, кровоносних судин, легень, травної системи, нервової системи, сечостатевої системи, захворювання щитовидної залози, печінки, нирок, порушення згортання крові, тромбоемболічні захворювання, психічні захворювання, або інші захворювання)?",
+        "ua_transcription": "Likujetes Vy / Vaša dytyna u zvjazku z jakymy-nebuď chroničnymy zachvorjuvaňňamy (vysokyj krovjanyj tysk, diabet, chvoroby sercja, krovonosnych sudyn, leheň, travnoji systemy, nervovoji systemy, sečostatevoji systemy, zachvorjuvaňňa ščytovydnoji zalozy, pečinky, nyrok, porušeňňa zhortaňňa krovi, tromboembolični zachvorjuvaňňa, psychični zachvorjuvaňňa, abo inši zachvorjuvaňňa)?"
+    },
+    {
+        "cz_translation": "Užíváte/užívá Vaše dítě nějaké léky? Jaké?",
+        "cz_transcription": "",
+        "ua_translation": "Берете Ви / бере Ваша дитина якісь ліки? Які?",
+        "ua_transcription": "Berete Vy / bere Vaša dytyna jakis liky? Jaki?"
+    },
+    {
+        "cz_translation": "Užíváte/užívá Vaše dítě tento lék trvale? Pouze při obtížích?",
+        "cz_transcription": "",
+        "ua_translation": "Берете Ви / бере Ваша дитина якісь ліки постійно? Лише у разі ускладнень?",
+        "ua_transcription": "Berete Vy / bere Vaša dytyna jakis liky postijno? Lyše u razi uskladneň?"
+    },
+    {
+        "cz_translation": "Změnili jste v nedávné době u nějakého léku dávkování? Vysadili jste v poslední době nějaký lék? Provedli jste změnu v užívání léku bez vědomí lékaře?",
+        "cz_transcription": "",
+        "ua_translation": "Чи Ви змінювали нещодавно дози якихось ліків? Ви перестали приймати нещодавно якісь ліки? Ви проводили якісь зміни при прийнятті ліків без відома лікаря?",
+        "ua_transcription": "Čy Vy zminjuvaly neščodavno dozu jakychos likiv? Vy perestaly pryjmaty neščodavno jakis liky? Vy provodyly jakis zminy pry pryjňatti likiv bez vidoma likarja?"
+    },
+    {
+        "cz_translation": "Byly v minulosti nějaké závažnější úrazy, operace, hospitalizace?",
+        "cz_transcription": "",
+        "ua_translation": "Були в минулому якісь серйозні травми, операції, госпіталізації?",
+        "ua_transcription": "Buly v mynulomu jakis serjozni travmy, operaciji, hospitalizaciji?"
+    },
+    {
+        "cz_translation": "Máte/má Vaše dítě chuť k jídlu?",
+        "cz_transcription": "",
+        "ua_translation": "Máte/má Vaše dítě chuť k jídlu?",
+        "ua_transcription": "Маєте Ви / Ваша дитина апетит?"
+    },
+    {
+        "cz_translation": "Trpíte/trpí Vaše dítě nechutenstvím?",
+        "cz_transcription": "",
+        "ua_translation": "Чи страждаєте Ви / Ваша дитина відсутністю апетиту?",
+        "ua_transcription": "Čy straždajete Vy / Vaša dytyna vidsutnisťu apetytu?"
+    },
+    {
+        "cz_translation": "Máte/má Vaše dítě nucení na zvracení? Jak často? Je krev ve zvratkách?",
+        "cz_transcription": "",
+        "ua_translation": "Чи страждаєте Ви / Ваша дитина нудотою?",
+        "ua_transcription": "Čy straždajete Vy / Vaša dytyna nudotoju? Jak často? Majete krov u bljuvotnych masach?"
+    },
+    {
+        "cz_translation": "Kdy jste naposledy pila/jedla/ Kdy Vaše dítě naposledy pilo/jedlo?",
+        "cz_transcription": "",
+        "ua_translation": "Коли Ви востаннє пили / їли / Коли Ваша дитина востаннє пила / їла?",
+        "ua_transcription": "Koly Vy vostaňně pyly / jily / Koly Vaša dytyna vostaňně pyla / jila?"
+    },
+    {
+        "cz_translation": "Jsou nějaké problémy s vyprazdňováním (zácpa, průjem)? Jak často je stolice? Kdy byla naposledy? Pozorujete krev či hlen ve stolici? Byly v poslední době nějaké změny stolice?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є які-небудь проблеми з випорожненням (запор, діарея)? Як часто випорожнення? Коли в останній раз? Чи спостерігається кров або слиз у випорожненні?",
+        "ua_transcription": "Čy je jaki-nebuď problemy z vyporožneňňam (zapor, daireja)? Jak často vyporožneňňa? Koly v ostannij raz? Čy sposterihajet'sja krov abo slyz  u vyporožnenni"
+    },
+    {
+        "cz_translation": "Odchází Vám/Vašemu dítěti větry?",
+        "cz_transcription": "",
+        "ua_translation": "Відходять у Вас / Вашої дитини гази?",
+        "ua_transcription": "Vidchoďať u Vas / Vašoji dytyny hazy?"
+    },
+    {
+        "cz_translation": "Máte/má Vaše dítě obtíže s močením? Kdy jste/Vaše dítě močila/o naposledy? Pozorujete krev v moči?",
+        "cz_transcription": "",
+        "ua_translation": "Маєте Ви / Ваша дитина проблеми із сечовипусканням? Коли Ви / Ваша дитина мочилася востаннє? Ви помітили кров у сечі?",
+        "ua_transcription": "Majete Vy / Vaša dytyna problemy iz sečovypuskaňňam? Koly Vy / Vaša dytyna močylasja vostaňně? Vy pomityly krov u seči?"
+    },
+    {
+        "cz_translation": "Máte/má Vaše dítě zvýšenou tělesnou teplotu? Kolik stupňů? Jak dlouho trvá?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас / Вашої дитини підвищена температура тіла? Скільки градусів? Як довго це триває?",
+        "ua_transcription": "Čy je u Vas / Vašoji dytyny pidvyščena temperatura tila? Skilky hradusiv? Jako dovho ce tryvaje?"
+    },
+    {
+        "cz_translation": "Máte/má Vaše dítě obtíže s dýcháním? Jak dlouho?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас / Вашої дитини проблеми з диханням? Як довго?",
+        "ua_transcription": "Čy je u Vas / Vašoji dytyny problemy z dychaňňam? Jak dovho?"
+    },
+    {
+        "cz_translation": "Došlo v posledních dnech (hodinách) ke zhoršení?",
+        "cz_transcription": "",
+        "ua_translation": "Чи відбулося в останні дні (години) погіршення?",
+        "ua_transcription": "Čy vidbulosja v ostanni dni (hodyny) pohiršeňňa?"
+    },
+    {
+        "cz_translation": "Máte/má Vaše dítě kašel? Jak dlouho?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас / Вашої дитини кашель?",
+        "ua_transcription": "Čy je u Vas / Vašoji dytyny kašel?"
+    },
+    {
+        "cz_translation": "Bylo Vám/Vašemu dítěti v poslední době měřen krevní tlak? Byl v normě, vysoký, nízký?",
+        "cz_transcription": "",
+        "ua_translation": "Чи було Вам / Вашій дитині виміряно кров'яний тиск? Був нормальний, високий, низький?",
+        "ua_transcription": "Čy bulo Vam / Vašij dytyni vymirjano krovjanyj tysk? Buv normalnyj, vysokyj, nyzkyj?"
+    },
+    {
+        "cz_translation": "Jaká byla porodní hmotnost, délka, Apgar score?",
+        "cz_transcription": "",
+        "ua_translation": "Яка була маса тіла при народженні, довжина, оцінка за шкалою Апгар?",
+        "ua_transcription": "Jaka bula masa tila pry narodženni, dovžyna, ocinka za škaloju Aphar?"
+    },
+    {
+        "cz_translation": "Byly nějaké komplikace v graviditě?",
+        "cz_transcription": "",
+        "ua_translation": "Чи були якісь ускладнення під час вагітності?",
+        "ua_transcription": "Čy buly jakis uskladneňňa pid čas vahitnosti?"
+    },
+    {
+        "cz_translation": "Byly nějaké problémy po porodu před propuštěním domů?",
+        "cz_transcription": "",
+        "ua_translation": "Чи були якісь проблеми після народження до виписки додому?",
+        "ua_transcription": "Čy buly jakis problemy pislja narodžeňňa do vypysky dodomu?"
+    },
+    {
+        "cz_translation": "Byly normální příbytky na váze a růst do délky?",
+        "cz_transcription": "",
+        "ua_translation": "Чи були нормальними збільшення ваги і росту в довжину?",
+        "ua_transcription": "Čy buly normalnymy zbilšeňňa vahy i rostu v dovžynu?"
+    },
+    {
+        "cz_translation": "Byl pohybový a psychický vývoj dítěte přiměřený?",
+        "cz_transcription": "",
+        "ua_translation": "Чи був рухливий і психологічний розвиток дитини адекватним?",
+        "ua_transcription": "Čy buv ruchlyvyj i psycholohičnyj rozvytok dytyny adekvatnym?"
+    },
+    {
+        "cz_translation": "Byl vývoj řeči u dítěte přiměřený?",
+        "cz_transcription": "",
+        "ua_translation": "Чи був розвиток мови дитини адекватним?",
+        "ua_transcription": "Čy buv rozvytok movy dytyny adekvatnym?"
+    },
+    {
+        "cz_translation": "Udržuje Vaše dítě již čistotu?",
+        "cz_transcription": "",
+        "ua_translation": "Чи дотримується Ваша дитина чистоти?",
+        "ua_transcription": "Čy dotrymujet'sja Vaša dytyna čystoty?"
+    },
+    {
+        "cz_translation": "Navštěvuje dítě kolektiv?",
+        "cz_transcription": "",
+        "ua_translation": "Дитина відвідує колектив?",
+        "ua_transcription": "Dytyna vidviduje kolektyv?"
+    },
+    {
+        "cz_translation": "Myslíte si, že Vaše dítě bere nějaké drogy?",
+        "cz_transcription": "",
+        "ua_translation": "Як Ви думаєте, Ваша дитина приймає наркотики?",
+        "ua_transcription": "Jak Vy dumajete, Vaša dytyna pryjmaje narkotyky?"
+    },
+    {
+        "cz_translation": "Vyskytlo se u Vašich blízkých nějaké závažné onemocnění (nádorové onemocnění, kardiovaskulární onemocnění – infarkt, cerebrovaskulární onemocnění – mrtvice, metabolické onemocnění – cukrovka, psychické onemocnění – deprese, psychóza, gynekologické onemocnění)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи були у Ваших родичів деякі серйозні захворювання (рак, серцево-судинні захворювання – інфаркт, цереброваскулярні захворювання – інсульт, хвороби обміну речовин – цукровий діабет, психічні захворювання – депресія, психоз, гінекологічні захворювання)?",
+        "ua_transcription": "Čy buly u Vašych rodyčiv dejaki serjozni zachvorjuvaňňa (rak, sercevo-sudynni zachvorjuvaňňa – infarkt, cerebrovaskuljarni zachvorjuvaňňa – insult, chvoroby obminu rečovyn – cukrovyj diabet, psychični zachvorjuvaňňa – depresija, psychoz, hinekolohični zachvorjuvaňňa)?"
+    },
+    {
+        "cz_translation": "Je dítě plně kojeno? Přikrmováno odkdy?",
+        "cz_transcription": "",
+        "ua_translation": "Дитина на грудному вигодовуванні повністю? З якого часу вигодовується груддю?",
+        "ua_transcription": "Dytyna na hrudnomu vyhodovuvanni povnisťu? Z jakoho času vyhodovujet'sja hrudd'u?"
+    },
+    {
+        "cz_translation": "Jaká sušená mléka používáte? Jiný typ kojenecké výživy?",
+        "cz_transcription": "",
+        "ua_translation": "Яке сухе молоко Ви використовуєте? Інший тип дитячого харчування?",
+        "ua_transcription": "Jake suche moloko Vy vykorystovujete? Inšyj typ dyťačoho charčuvaňňa?"
+    },
+    {
+        "cz_translation": "Podáváte mu již smíšenou stravu?",
+        "cz_transcription": "",
+        "ua_translation": "Чи вже даєте дитині змішаний раціон?",
+        "ua_transcription": "Čy vže dajete dytyni zmišanyj racion?"
+    },
+    {
+        "cz_translation": "Je Vaše dítě schopno se najíst samo?",
+        "cz_transcription": "",
+        "ua_translation": "Ваша дитина в змозі їсти сама?",
+        "ua_transcription": "Vaša dytyna v zmozi jisty sama?"
+    },
+    {
+        "cz_translation": "Co mu dáváte doma pít a kolik vypije za den?",
+        "cz_transcription": "",
+        "ua_translation": "Що Ви даєте дитині дома пити, скільки напоїв вип'є за день?",
+        "ua_transcription": "Ščo Vy dajete dytyni doma pyty, skilky napojiv vypje za deň?"
+    },
+    {
+        "cz_translation": "Jste/je Vaše dítě na něco alergický (léky, kontrastní látky, dezinfekční prostředky, náplasti, zvířata, peří, bodnutí hmyzem, prach, pyl, potraviny či jiné látky)?",
+        "cz_transcription": "",
+        "ua_translation": "Ви / Ваша дитина має(те) алергію на що-небудь (наркотики, контрастні агенти, дезинфікуючі засоби, пластирі, тварини, пір'я, укуси комах, пилу, пилку, продукти харчування або інші речовини)?",
+        "ua_transcription": "Vy / Vaša dytyna maje(te) alerhiju na ščo-nebuď (narkotyky, kontrastni ahenty, dezynfikujuči zasoby, plastyri, tvaryny, pirja, ukusy komach, pylu, pylku, produkty charčuvaňňa abo inši rečovyny)?"
+    },
+    {
+        "cz_translation": "Jak tato alergická reakce vypadá (vyrážka, svědění kůže, svědění očí, slzení očí, svědění v krku, svědění v nose, otok, dechové obtíže, rýma, kýchání, kašel, mdloby, bolesti břicha, průjem, zvracení)?",
+        "cz_transcription": "",
+        "ua_translation": "Як виглядає алергічна реакція (висип, свербіж шкіри, свербіж очей, сльозотеча, свербіж у горлі, свербіж у носі, набряк, утруднене дихання, нежить, чхання, кашель, запаморочення, біль у животі, діарея, блювота)?",
+        "ua_transcription": "Jak vyhljadaje alerhična reakcija (vysyp, sverbiž škiry, sverbiž očej, sljozoteča, sverbiž u horli, sverbiž u nosi, nabrjak, utrudnene dychaňňa, nežyť, čchaňňa, kašelj, zapamoročeňňa, bilj u žyvoti, diareja, bljuvota)?"
+    },
+    {
+        "cz_translation": "Byla u Vás/u Vašeho dítěte prokázána nějaká infekční choroba (žloutenka, tuberkulóza, průjmové onemocnění, pohlavní onemocnění)?",
+        "cz_transcription": "",
+        "ua_translation": "Були у Вас / Вашої дитини виявлені інфекційнi захворювання (гепатит, туберкульоз, шлунково-кишкові захворювання, венеричні хвороби)?",
+        "ua_transcription": "Buly u Vas / Vašoji dytyny vyjavleni infekcijni zachvorjuvaňňa (hepatyt, tuberkuljoz, šlunkovo-kyškovi zachvorjuvaňňa, veneryčni chvoroby)?"
+    },
+    {
+        "cz_translation": "Přišla jste/přišlo Vaše dítě v poslední době do styku s osobou, u které se vyskytlo či vyskytuje nakažlivé onemocnění? Kde?",
+        "cz_transcription": "",
+        "ua_translation": "Був у Вас / Вашої дитини нещодавно контакт з людиною, у якої інфекційне захворювання?",
+        "ua_transcription": "Buv u Vas / Vašoji dytyny neščodavno kontakt z ljudynoju, u jakoji infekcijne zachvorjuvaňňa?"
+    },
+    {
+        "cz_translation": "Měl/a jste/mělo Vaše dítě v poslední době přisáté klíště?",
+        "cz_transcription": "",
+        "ua_translation": "Вас / або Вашу дитину нещодавно укусив кліщ?",
+        "ua_transcription": "Vas / abo Vašu dytynu neščodavno ukusyv klišč?"
+    },
+    {
+        "cz_translation": "Cestoval/a jste/cestovalo Vaše dítě v poslední době do rozvojových zemí? Kam?",
+        "cz_transcription": "",
+        "ua_translation": "Їздили Ви / Ваша дитина нещодавно в країни, що розвиваються? Куди?",
+        "ua_transcription": "Jizdyly Vy / Vaša dytyna neščodavno v krajiny, ščo rozvyvajuťsja? Kudy?"
+    },
+    {
+        "cz_translation": "Kouříte? Kolik let kouříte? Kolik cigaret za den vykouříte? Jak dlouho nekouříte?",
+        "cz_transcription": "",
+        "ua_translation": "Ви палите? Скільки років Ви палите? Скільки цигарок на день Ви палите?",
+        "ua_transcription": "Vy palyte? Skilky rokiv Vy palyte? Skilky cyharok na deň Vy palyte? Jak dovho Vy ne palyte?"
+    },
+    {
+        "cz_translation": "Pijete alkohol příležitostně nebo pravidelně? Jaký druh nejčastěji? Kolik piv denně/týdně vypijete? Kolik litrů vína denně/ týdně vypijete? Jaké množství destilátu denně/týdně vypijete?",
+        "cz_transcription": "",
+        "ua_translation": "Ви вживаєте алкоголь іноді або регулярно? Який вид найчастіше? Скільки пива на день / тиждень Ви п'єте? Скільки літрів вина на день / тиждень Ви п'єте? Яку кількість дистиляту на день / тиждень Ви вживаєте?",
+        "ua_transcription": "Vy vžyvajete alkohol inodi abo rehuljarno? Jakyj vyd najčastiše? Skilky pyva na deň / tyždeň Vy pjete? Skilky litriv vyna na deň / tyždeň Vy pjete? Jaku kilkisť dystyljatu na deň / tyždeň Vy vžyvajete?"
+    },
+    {
+        "cz_translation": "Pijete kávu?",
+        "cz_transcription": "",
+        "ua_translation": "Ви п'єте каву?",
+        "ua_transcription": "Vy pjete kavu?"
+    },
+    {
+        "cz_translation": "Užíváte jiné návykové látky než alkohol, tabák či kávu? O jaké látky se jedná?",
+        "cz_transcription": "",
+        "ua_translation": "Приймаєте інші наркотичні речовини, ніж алкоголь, тютюн або каву? Що це за речовини?",
+        "ua_transcription": "Pryjmajete iinši narkotyčni rečovyny, niž alkohol, ťuťun abo kavu? Ščo ce za rečovyny?"
+    },
+    {
+        "cz_translation": "Máte již menstruaci? Užíváte antikoncepční pilulky/jiné prostředky proti početí?",
+        "cz_transcription": "",
+        "ua_translation": "У Вас вже є менструація? Приймаєте протизаплідні таблетки / інші засоби контрацепції?",
+        "ua_transcription": "U Vas vže je menstruacija? Pryjmajete protyzaplidni tabletky / inši zasoby kontracepciji?"
+    },
+    {
+        "cz_translation": "Je Váš menstruační cyklus pravidelný?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є Ваш менструальний цикл регулярним?",
+        "ua_transcription": "Čy je Vaš menstrualnyj cykl rehuljarnym?"
+    },
+    {
+        "cz_translation": "Po kolika dnech míváte menstruaci? Jak dlouho obvykle trvá?",
+        "cz_transcription": "",
+        "ua_translation": "Після скількох днів починається менструація? Як довго проходить?",
+        "ua_transcription": "Pislja skilkoch dniv počynajeťsa menstruacija? Jak dovho prochodyť?"
+    },
+    {
+        "cz_translation": "Je menstruace výrazně bolestivá? Je menstruace velmi silná?",
+        "cz_transcription": "",
+        "ua_translation": "Маєте болючі менструації? Менструації дуже сильні?",
+        "ua_transcription": "Majete boljuči menstruaciji? Menstruaciji duže sylni?"
+    },
+    {
+        "cz_translation": "Kdy byla poslední menstruace?",
+        "cz_transcription": "",
+        "ua_translation": "Коли була Ваша остання менструація?",
+        "ua_transcription": "Koly bula Vaša ostaňňa menstruacija?"
+    },
+    {
+        "cz_translation": "Byl její průběh obvyklý?",
+        "cz_transcription": "",
+        "ua_translation": "Її перебіг був звичайний?",
+        "ua_transcription": "Jiji perebih buv zvyčajnyj?"
+    },
+    {
+        "cz_translation": "Léčíte se či léčila jste se v souvislosti s nějakým gynekologickým onemocněním?",
+        "cz_transcription": "",
+        "ua_translation": "Ви лікуєтесь або лікувались у зв'язку з гінекологічною хворобою?",
+        "ua_transcription": "Vy likujetes aby likuvalys u zvjazku z hinekolohičnoju chvoroboju?"
+    },
+    {
+        "cz_translation": "Teď, prosím, Vaše dítě vysvlečte, můžete je držet i v náručí, položte je na podložku a zatím mu nechte plenu.",
+        "cz_transcription": "",
+        "ua_translation": "Тепер, будь ласка, роздягніть дитину, можете тримати її на руках, помістіть її сюди, підгузник можете не знімати.",
+        "ua_transcription": "Teper, buď laska, rozďahniť dytynu, možete trymaty jiji na rukach, pomistiť jiji sjudy, pidhuznyk možete ne znimaty."
+    },
+    {
+        "cz_translation": "Sestra nyní dítě zváží a změří jeho délku/výšku.",
+        "cz_transcription": "",
+        "ua_translation": "Сестра зараз час зважить і виміряє довжину / висоту дитини.",
+        "ua_transcription": "Sestra zaraz čas zvažyť i vymirjaje dovžynu / vysotu dytyny."
+    },
+    {
+        "cz_translation": "Změříme i krevní tlak.",
+        "cz_transcription": "",
+        "ua_translation": "Ми вимірюємо артеріальний тиск.",
+        "ua_transcription": "My vymirjujemo arterialnyj tysk."
+    },
+    {
+        "cz_translation": "Teď si vezmu fonendoskop a budu poslouchat srdce a plíce.",
+        "cz_transcription": "",
+        "ua_translation": "Тепер я візьму стетоскоп та послухаю серце і легені.",
+        "ua_transcription": "Teper ja vizmu stetoskop ta posluchaju serce i leheni."
+    },
+    {
+        "cz_translation": "Musíme se podívat do úst.",
+        "cz_transcription": "",
+        "ua_translation": "Я повинен оглянути рота.",
+        "ua_transcription": "Ja povynen ohljanuty rota."
+    },
+    {
+        "cz_translation": "Při vyšetření břicha dítě musí ležet, ale pokud to nebude možné, zkusíme je vyšetřit ve Vaší náruči.",
+        "cz_transcription": "",
+        "ua_translation": "Обстежимо живіт дитини, яка повинна лежати, а якщо це не можливо, ми спробуємо обстежити її у Вас на руках.",
+        "ua_transcription": "Obstežymo žyvit dytyny, jaka povynna ležaty, a jakščo ce ne možlyvo, my sprobujemo obstežyty jiji u Vas na rukách."
+    },
+    {
+        "cz_translation": "Orientačně musíme vyšetřit i genitál dítěte.",
+        "cz_transcription": "",
+        "ua_translation": "Також ми повинні обстежити статеві органи дитини.",
+        "ua_transcription": "Takož my povynni obstežyty statevi orhany dytyny."
+    },
+    {
+        "cz_translation": "Nyní potřebujeme vyšetřit moč a krev, můžete zkusit dát dítě vymočit a moč zachytit do této nádobky?",
+        "cz_transcription": "",
+        "ua_translation": "Тепер ми повинні обстежити сечу і кров, Ви можете зробити так, щоб дитина помочилася, а сечу наберіть у цей контейнер?",
+        "ua_transcription": "Teper my povynni obstežyty seču i krov, Vy možete zrobyty tak, ščob dytyna pomočylasja, a seču naberit'  u cej kontejner?"
+    },
+    {
+        "cz_translation": "Pošleme teď dítě na vyšetření ultrazvukem/rentgenem, budete moci být po celou dobu u dítěte.",
+        "cz_transcription": "",
+        "ua_translation": "Тепер проведемо обстеження на УЗІ / рентгені, Ви будете повинні увесь час бути поруч з дитиною.",
+        "ua_transcription": "Teper provedemo obstežeňňa na UZI / rentheni, Vy budete povynni uves čas buty poruč z dytynoju."
+    },
+    {
+        "cz_translation": "Bude nutné odebrat dítěti krev z prstu/ze žíly.",
+        "cz_transcription": "",
+        "ua_translation": "Буде необхідно у дитини взяти кров з пальця / з вени.",
+        "ua_transcription": "Bude neobchidno u dytyny vzjaty krov z paljcja/ z veny."
+    },
+    {
+        "cz_translation": "Nyní musíme zavést sondu do žaludku/kanylu do žíly a podat infuzní roztok solí a glukózy. Dítě tak dostane touto cestou antibiotika/další léky.",
+        "cz_transcription": "",
+        "ua_translation": "Тепер ми повинні ввести трубку до шлунку / канюлю у вену та подати інфузійний розчин солі і глюкози. Дитина таким чином отримає антибіотики /",
+        "ua_transcription": "Teper my povynni vvesty trubku do šlunku / kaňulju u venu ta podaty infuzijnyj rozčyn soli i hljukozy. Dytyna takym čynom otrymaje antybiotyky / inši liky."
+    },
+    {
+        "cz_translation": "Výsledky provedených vyšetření ukazují, že je nutné přijetí do nemocnice.",
+        "cz_transcription": "",
+        "ua_translation": "Результати тестів показують, що потрібна госпіталізація",
+        "ua_transcription": "Rezultaty testiv pokazjuť, ščo potribna hospitalizacija."
+    },
+    {
+        "cz_translation": "U dítěte do 6 let může být přijat do nemocnice i rodinný příslušník, výjimečně je možný doprovod i u staršího pacienta.",
+        "cz_transcription": "",
+        "ua_translation": "У дитини до 6 років можуть бути допущені до лікарні члени сім'ї, у виняткових випадах можливо супроводження і пацієнтів похилого віку.",
+        "ua_transcription": "U dytyny do 6 rokiv možuť buty dopuščeni do likarni členy simji, u vyňatkovych vypadkach možlyvo suprovodžeňňa i pacijentiv pochyloho viku."
+    }
+]

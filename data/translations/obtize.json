@@ -1,0 +1,68 @@
+[
+    {
+        "cz_translation": "Ukažte na obrázku, kde Vás bolí. Dokážete přesně určit místo, kde cítíte bolest (ohraničená bolest, neohraničená bolest)?",
+        "cz_transcription": "",
+        "ua_translation": "Покажіть на картинці, де у Вас болить. Чи можете Ви точно визначити, де Ви відчуваєте біль (обмежений біль, необмежений біль)?",
+        "ua_transcription": "Pokažiť na kartynci, de u Vas bolyť. Čy možete Vy točno vyznačyty, de Vy vidčuvajete bilj (obmeženyj bilj, neobmeženyj bil)?"
+    },
+    {
+        "cz_translation": "Jak dlouho máte bolesti (hodiny, dny, měsíce, roky)?",
+        "cz_transcription": "",
+        "ua_translation": "Як довго Ви маєте біль (години, дні, місяці, роки)?",
+        "ua_transcription": "Jak dovho Vy majete bilj (hodyny, dni, misjaci, roky)?"
+    },
+    {
+        "cz_translation": "Popište mi prosím charakter bolesti (ostrá, tupá, bodavá, řezavá, setrvávající na místě, stěhovavá)",
+        "cz_transcription": "",
+        "ua_translation": "Будь ласка, опишіть мені характер болю (гострий, тупий, колотий, ріжучий, залишається на місці, міграційний)",
+        "ua_transcription": "Buď laska, opyšiť meni charakter bolju (hostryj, tupyj, kolotyj, rižučyj, zalyšajeťsja na misci, mihracijnyj)"
+    },
+    {
+        "cz_translation": "Začala bolest náhle? Začala bolest pozvolna?",
+        "cz_transcription": "",
+        "ua_translation": "Біль виник раптом? чи повільно?",
+        "ua_transcription": "Bilj vynyk raptovo? Čy povilno?"
+    },
+    {
+        "cz_translation": "Došlo v posledních hodinách/dnech/týdnech ke zhoršení bolestí?",
+        "cz_transcription": "",
+        "ua_translation": "Vidbulosja v ostanni hodyny / dni / tyžni pohiršeňňa bolju?",
+        "ua_transcription": "Vidbulosja v ostanni hodyny / dni / tyžni pohiršeňňa bolju?/"
+    },
+    {
+        "cz_translation": "Pozoroval/a jste či pozorujete nějaký vyvolávací moment bolestí - úraz, požití jídla či tekutin (alkohol, káva atd.), fyzická námaha (jaká), určitá poloha těla (ukažte prosím), močení, defekace, kašel či jiné?",
+        "cz_transcription": "",
+        "ua_translation": "Ви знаєте, коли почався момент болю - травми, прийому їжі або рідини (алкоголь, кава і т.д.), фізичного навантаження (якого), конкретного положення тіла (будь ласка, покажіть), сечовипускання, дефекація, кашель або інше?",
+        "ua_transcription": "Vy znajete, koly počavsja moment bolju– travmy, pryjomu jiži abo ridyny (alkohol, kava i t.d.), fizyčnoho navantažeňňa (jakoho), konkretnoho položeňňa tila (buď laska, pokažiť), sečovypuskaňňa, defekacija, kašelj abo inše?"
+    },
+    {
+        "cz_translation": "Je bolest na jednom místě? Nebo se někam šíří? Ukažte prosím kam.",
+        "cz_transcription": "",
+        "ua_translation": "Біль в одному місці? Або кудись розширяються? Покажіть, куди.",
+        "ua_transcription": "Bilj v odnomu misci? Abo kudys rozšyrjujeťsja? Pokažiť, kudy."
+    },
+    {
+        "cz_translation": "Je bolest stálé intenzity? Mění se?",
+        "cz_transcription": "",
+        "ua_translation": "Біль постійної інтенсивності? Міняється?",
+        "ua_transcription": "Bilj postijnoji intensyvnosti? Minjajeťsja?"
+    },
+    {
+        "cz_translation": "Je bolest doprovázena nějakými dalšími příznaky (dušnost, zvracení, pocit slabosti, pocení, pocit zvýšené teploty či jiné)?",
+        "cz_transcription": "",
+        "ua_translation": "Біль супроводжується деякими іншими симптомами (задишка, блювання, слабкість, пітливість, відчуття підвищеної температури або інше)",
+        "ua_transcription": "Bilj suprovodžujeťsja dejakymy inšymy symptomamy (zadyška, bljuvaňňa, slabkisť, pitlyvisť, vidčuťťa pidvyščenoji temperatury abo inše)"
+    },
+    {
+        "cz_translation": "Budí Vás bolest ze spaní?",
+        "cz_transcription": "",
+        "ua_translation": "Біль будить Вас від сну ?",
+        "ua_transcription": "Bilj budyť Vas vid snu?"
+    },
+    {
+        "cz_translation": "Řekněte mi, pokud ucítíte bolest. Bolí Vás tohle?",
+        "cz_transcription": "",
+        "ua_translation": "Скажіть мені, якщо Ви відчуваєте біль. Вам боляче?",
+        "ua_transcription": "Skažiť meni, jakščo Vy vidčuvajete bilj. Vam boljače?"
+    }
+]

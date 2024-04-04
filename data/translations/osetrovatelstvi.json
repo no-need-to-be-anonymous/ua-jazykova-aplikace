@@ -1,0 +1,566 @@
+[
+    {
+        "cz_translation": "Souhlasíte s tím, aby se na Vaší péči podíleli praktikující studenti?",
+        "cz_transcription": "",
+        "ua_translation": "Чи згодні Ви з тим, щоб в догляді за Вами прийняли участь студенти- практиканти?",
+        "ua_transcription": "Čy zhodni Vy z tym, ščob v dohljadi za Vamy pryjňaly učasť studenty- praktykanty?"
+    },
+    {
+        "cz_translation": "Uveďte, prosím, kontakt na blízkou osobu, které mohou být podávány informace o Vašem zdravotním stavu.",
+        "cz_transcription": "",
+        "ua_translation": "Будь ласка, укажіть контактну особу, якій може бути надана інформація про стан Вашого здоров'я.",
+        "ua_transcription": "Buď laska, ukažiť kontaktnu osobu, jakij može buty nadana informacija pro stan Vašoho zdorovja."
+    },
+    {
+        "cz_translation": "Návštěvy jsou povoleny v libovolném čase, ale s preferencí v odpoledních hodinách.",
+        "cz_transcription": "",
+        "ua_translation": "Відвідини дозволені у будь-який час, але з перевагою після обіду.",
+        "ua_transcription": "Vidvidyny dozvoleni u buď-jakyj čas, ale z perevahoju pislja obidu."
+    },
+    {
+        "cz_translation": "Pojďte, prosím, se mnou. Uložím Vás na Vaše lůžko.",
+        "cz_transcription": "",
+        "ua_translation": "Будь ласка, йдіть зі мною. Я покажу Ваше ліжко.",
+        "ua_transcription": "Buď laska, jdiť zi mnoju. Ja pokažu Vaše ližko."
+    },
+    {
+        "cz_translation": "Pojďte, prosím, se mnou, ukážu Vám, kde je koupelna a toaleta.",
+        "cz_transcription": "",
+        "ua_translation": "Будь ласка, йдіть зі мною. Я покажу Вам, де є ванна та туалет.",
+        "ua_transcription": "Buď laska, jdiť zi mnoju. Ja pokažu Vam, de je vanna ta tualet."
+    },
+    {
+        "cz_translation": "Při potřebě stiskněte toto tlačítko a přivolejte sestru.",
+        "cz_transcription": "",
+        "ua_translation": "При необхідності натисніть цю кнопку, щоб викликати медсестру.",
+        "ua_transcription": "Pry neobchidnosti natysniť cju knopku, ščob vyklykaty medsestru."
+    },
+    {
+        "cz_translation": "Máte izolační režim. Neopouštějte svůj pokoj.",
+        "cz_transcription": "",
+        "ua_translation": "Ви маєте ізоляційний режим. Не залишайте Вашу палату.",
+        "ua_transcription": "Vy majete izoljacijnyj režym. Ne zalyšajte Vašu palatu."
+    },
+    {
+        "cz_translation": "Máte riziko pádu. Nevstávejte sám/sama z lůžka. Přivolejte sestru.",
+        "cz_transcription": "",
+        "ua_translation": "У Вас є ризик падіння. Не вставайте сам/сама з ліжка. Покличте сестру.",
+        "ua_transcription": "U Vas je ryzyk padiňňa. Ne vstavajte sam/sama z ližka. Poklyčte sestru."
+    },
+    {
+        "cz_translation": "Máte klidový režim na lůžku, nevstávejte.",
+        "cz_transcription": "",
+        "ua_translation": "У Вас постільний режим, не вставайте.",
+        "ua_transcription": "U Vas postilnyj režym, ne vstavajte."
+    },
+    {
+        "cz_translation": "Nesmíte sedět.",
+        "cz_transcription": "",
+        "ua_translation": "Ви не можете сидіти.",
+        "ua_transcription": "Vy ne možete sydity."
+    },
+    {
+        "cz_translation": "Máte riziko vzniku proleženin. Budeme Vás polohovat.",
+        "cz_transcription": "",
+        "ua_translation": "У Вас є ризик пролежнів. Ми будемо Вас позиціонувати.",
+        "ua_transcription": "U Vas je ryzyk proležniv. My budemo Vas pozycionuvaty."
+    },
+    {
+        "cz_translation": "Otočte se na pravý bok/ na levý bok.",
+        "cz_transcription": "",
+        "ua_translation": "Переверніться на правий бік/на лівий бік.",
+        "ua_transcription": "Pereverniťsja na pravyj bik/na livyj bik."
+    },
+    {
+        "cz_translation": "Posaďte se, prosím.",
+        "cz_transcription": "",
+        "ua_translation": "Сядьте, будь ласка.",
+        "ua_transcription": "Sjaďte, buď laska."
+    },
+    {
+        "cz_translation": "Dejte, prosím, nohy od sebe.",
+        "cz_transcription": "",
+        "ua_translation": "Протягніть ноги від себе.",
+        "ua_transcription": "Proťahniť nohy vid sebe."
+    },
+    {
+        "cz_translation": "Leží se Vám pohodlně?",
+        "cz_transcription": "",
+        "ua_translation": "Вам лежати комфортно?",
+        "ua_transcription": "Vam ležaty komfortno.?"
+    },
+    {
+        "cz_translation": "Tímto ovladačem si můžete upravit polohu lůžka.",
+        "cz_transcription": "",
+        "ua_translation": "Цим пультом Ви можете регулювати положення ліжка.",
+        "ua_transcription": "Cym pultom Vy možete rehuljuvaty položeňňa ližka."
+    },
+    {
+        "cz_translation": "Zvednu Vám podhlavník.",
+        "cz_transcription": "",
+        "ua_translation": "Підійму Вам підголівник.",
+        "ua_transcription": "Pidijmu Vam pidholovnyk."
+    },
+    {
+        "cz_translation": "Budeme vstávat z lůžka. Informujte mě, pokud by Vám bylo mdlo.",
+        "cz_transcription": "",
+        "ua_translation": "Ми будемо вставати з ліжка. Скажіть, якщо Ви будете непритомніти.",
+        "ua_transcription": "My budeme vstavaty z ližka. Skažiť, jakščo Vy budete neprytomnity."
+    },
+    {
+        "cz_translation": "Pojedeme na vyšetření.",
+        "cz_transcription": "",
+        "ua_translation": "Ми поїдемо на обстеження.",
+        "ua_transcription": "My pojidemo na obstežeňňa."
+    },
+    {
+        "cz_translation": "Posaďte se, prosím, na kolečkové křeslo.",
+        "cz_transcription": "",
+        "ua_translation": "Будь ласка, сідайте в крісло-коляску.",
+        "ua_transcription": "Buď laska, sidajte v krislo-koljasku."
+    },
+    {
+        "cz_translation": "Je nutné, aby jste ležel/a ve vodorovné poloze na zádech.",
+        "cz_transcription": "",
+        "ua_translation": "Необхідно, щоб Ви лежали на спині вертикально.",
+        "ua_transcription": "Neobchidno, ščob Vy ležaly na spyni vertykalno."
+    },
+    {
+        "cz_translation": "Přiložím Vám bandáže na dolní končetiny. Podporují prevenci vzniku tromboembolické nemoci.",
+        "cz_transcription": "",
+        "ua_translation": "Покладемо Вам бандаж на нижні кінцівки. Це є підтримка профілактики тромбоемболічних захворювань.",
+        "ua_transcription": "Poklademo Vam bandaž na nyžni kincivki. Ce je pidtrymka profilaktyky tromboebmoličnych zachvorjuvaň."
+    },
+    {
+        "cz_translation": "Natáhněte si, prosím, tyto kompresivní punčochy.",
+        "cz_transcription": "",
+        "ua_translation": "Натягніть, будь ласка, ці компресійні панчохи.",
+        "ua_transcription": "Naťahniť, buď laska, ci kompresijni pančochy."
+    },
+    {
+        "cz_translation": "Kdy jste byl/a naposledy na stolici?",
+        "cz_transcription": "",
+        "ua_translation": "Коли Ви востаннє спорожнювалися?",
+        "ua_transcription": "Koly Vy vostaňně sporožňuvalysja?"
+    },
+    {
+        "cz_translation": "Potřebujete na stolici?",
+        "cz_transcription": "",
+        "ua_translation": "Хочете випорожнитися?",
+        "ua_transcription": "Chočete vyporožnytysja?"
+    },
+    {
+        "cz_translation": "Nadzvedněte pánev. Dám Vám podložní mísu.",
+        "cz_transcription": "",
+        "ua_translation": "Підніміть таз. Дам Вас судно.",
+        "ua_transcription": "Pidnimiť taz. Dam Vam sudno."
+    },
+    {
+        "cz_translation": "Máte nějaké potíže s vyprazdňováním? (průjem, zácpa, bolest při vyprazdňování)",
+        "cz_transcription": "",
+        "ua_translation": "Маєте проблеми з випорожненням? (діарея, запор, біль під час спорожнювання).",
+        "ua_transcription": "Majete problemy z vyporožneňňam? (diareja, zapor, bilj pid čas sporožňuvaňňa."
+    },
+    {
+        "cz_translation": "Zavedu Vám do konečníku rektální rourku.",
+        "cz_transcription": "",
+        "ua_translation": "Я введу Вам у пряму кишку зонд.",
+        "ua_transcription": "Ja vvedu Vam u prjamu kyšku zond."
+    },
+    {
+        "cz_translation": "Budu Vám aplikovat do konečníku klyzma.",
+        "cz_transcription": "",
+        "ua_translation": "Я буду ставити Вам клізму.",
+        "ua_transcription": "Ja budu stavyty Vam klizmu."
+    },
+    {
+        "cz_translation": "Budeme Vám podávat projímadlo.",
+        "cz_transcription": "",
+        "ua_translation": "Ми дамо Вам проносне.",
+        "ua_transcription": "My  damo Vam pronosne."
+    },
+    {
+        "cz_translation": "Máte nějaké potíže při močení (bolest, pálení, časté močení)? V kolik hodin jste naposledy močil/a? Dojděte se, prosím, vymočit.",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас які-небудь проблеми із сечовипусканням? (біль, печіння, часте сечовипускання). У який час Ви востаннє мочилися? Підіть, будь ласка, у туалет.",
+        "ua_transcription": "Čy je u Vas jaki-nebuď problemy iz sečovypuskaňňam? (bilj, pečiňňa, časte sečovypuskaňňa). U jakyj čas Vy vostaňně močylysja? Pidiť, buď laska, u tualet."
+    },
+    {
+        "cz_translation": "Používáte inkontinenční pomůcky?",
+        "cz_transcription": "",
+        "ua_translation": "Користуєтесь підгузниками?",
+        "ua_transcription": "Korystujetes pidhuznykamy?"
+    },
+    {
+        "cz_translation": "U lůžka máte zavěšenou močovou láhev.",
+        "cz_transcription": "",
+        "ua_translation": "Біля ліжка ми Вам повісили пісуар.",
+        "ua_transcription": "Bilja ližka my Vam povisyly pisuar."
+    },
+    {
+        "cz_translation": "Přinesu Vám podložní mísu.",
+        "cz_transcription": "",
+        "ua_translation": "Принесу Вам судно.",
+        "ua_transcription": "Prynesu Vam sudno."
+    },
+    {
+        "cz_translation": "Vyměním Vám plenkové kalhotky.",
+        "cz_transcription": "",
+        "ua_translation": "Заміню Вам памперс.",
+        "ua_transcription": "Zamiňu Vam pampers."
+    },
+    {
+        "cz_translation": "Zavedu Vám katétr do močového měchýře.",
+        "cz_transcription": "",
+        "ua_translation": "Заведу Вам катетер до січового міхура.",
+        "ua_transcription": "Zavedu Vam kateter do sičovoho michura."
+    },
+    {
+        "cz_translation": "Vypustím Vám močový sáček.",
+        "cz_transcription": "",
+        "ua_translation": "Звільню Ваш сечовий міхур.",
+        "ua_transcription": "Zvilňu Vaš sečovyj michur."
+    },
+    {
+        "cz_translation": "Jak jste se vyspal/a?",
+        "cz_transcription": "",
+        "ua_translation": "Як Ви виспалися?",
+        "ua_transcription": "Jak Vy vyspalysja?"
+    },
+    {
+        "cz_translation": "Přejete si léky na spaní?",
+        "cz_transcription": "",
+        "ua_translation": "Приймаєте снотворне?",
+        "ua_transcription": "Pryjmajete snotvorne?"
+    },
+    {
+        "cz_translation": "Potřebujete před spaním upravit lůžko?",
+        "cz_transcription": "",
+        "ua_translation": "Вам потрібно налаштувати ліжко перед сном?",
+        "ua_transcription": "Vam potribno nalaštuvaty ližko pered snom?"
+    },
+    {
+        "cz_translation": "Chcete zhasnout světlo?",
+        "cz_transcription": "",
+        "ua_translation": "Вимкнути світло?",
+        "ua_transcription": "Vymknuty svitlo?"
+    },
+    {
+        "cz_translation": "Máte nějaké dietní omezení?",
+        "cz_transcription": "",
+        "ua_translation": "Маєте якісь дієтні обмеження?",
+        "ua_transcription": "Majete jakis dijetni obmežeňňa?"
+    },
+    {
+        "cz_translation": "Je něco, co nejíte?",
+        "cz_transcription": "",
+        "ua_translation": "Є щось, що Ви не їсте?",
+        "ua_transcription": "Je ščos, ščo Vy ne jiste?"
+    },
+    {
+        "cz_translation": "Máte alergii na nějaké potraviny?",
+        "cz_transcription": "",
+        "ua_translation": "Маєте алергію на якісь продукти?",
+        "ua_transcription": "Majete alerhiju na jakis produkty?"
+    },
+    {
+        "cz_translation": "Máte zubní protézu?",
+        "cz_transcription": "",
+        "ua_translation": "Маєте зубний протез.",
+        "ua_transcription": "Majete zubnyj protez?"
+    },
+    {
+        "cz_translation": "Potřebujete pomoci se stravou?",
+        "cz_transcription": "",
+        "ua_translation": "Вам необхідна допомога з харчуванням?",
+        "ua_transcription": "Vam neobchidna dopomoha z charčuvaňňam?"
+    },
+    {
+        "cz_translation": "Zvládnete se sám/a najíst?",
+        "cz_transcription": "",
+        "ua_translation": "Зможете самі поїсти?",
+        "ua_transcription": "Zmožete sami pojisty?"
+    },
+    {
+        "cz_translation": "Máte poruchu polykání?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас розлад в ковтанні?",
+        "ua_transcription": "Čy je u Vas rozlad v kovtanni?"
+    },
+    {
+        "cz_translation": "Nesmíte nic jíst a pít.",
+        "cz_transcription": "",
+        "ua_translation": "Не їжте і не пийте нічого.",
+        "ua_transcription": "Ne jižte i ne pyjte ničoho."
+    },
+    {
+        "cz_translation": "Pomůžu Vám se najíst.",
+        "cz_transcription": "",
+        "ua_translation": "Поможу Вам поїсти.",
+        "ua_transcription": "Pomožu Vam pojisty."
+    },
+    {
+        "cz_translation": "Máte omezený přísun tekutin, můžete vypít pouze ……… za 24 hodin.",
+        "cz_transcription": "",
+        "ua_translation": "У Вас є обмежене споживання рідини, можна тільки випити            у 24 години",
+        "ua_transcription": "U Vas je obmežene spožyvaňňa ridyny, možna tilky vypyty            u dvadcjať čotyry hodyny."
+    },
+    {
+        "cz_translation": "Sledujeme u Vás příjem tekutin. Za každý vypitý hrneček udělejte na papír čárku.",
+        "cz_transcription": "",
+        "ua_translation": "Відстежуємо споживання рідини. Після кожної випитої чашки зробіть на папері позначку.",
+        "ua_transcription": "Vidstežujemo spožyvaňňa ridyny. Pislja kožnoji vypytoji čašky zrobiť na paperi poznačku."
+    },
+    {
+        "cz_translation": "Měl/a byste hodně pít.",
+        "cz_transcription": "",
+        "ua_translation": "Ви повинні багато пити.",
+        "ua_transcription": "Vy povynni bahato pyty."
+    },
+    {
+        "cz_translation": "Nemáte pocit na zvracení? Zvracel/a jste?",
+        "cz_transcription": "",
+        "ua_translation": "Вас нудить? Ви блювали?",
+        "ua_transcription": "Vas nudyť? Vy bljuvaly?"
+    },
+    {
+        "cz_translation": "Budeme Vám podávat výživu sondou.",
+        "cz_transcription": "",
+        "ua_translation": "Ми Вам будемо подавати зондове харчування.",
+        "ua_transcription": "My Vam budemo podavaty zondove charčuvaňňa."
+    },
+    {
+        "cz_translation": "Po malých doušcích vypijte tento výživový prostředek.",
+        "cz_transcription": "",
+        "ua_translation": "Маленькими ковтками випийте цей поживний напій.",
+        "ua_transcription": "Maleňkymy kovtkamy vypyjte  cej požyvnyj napij."
+    },
+    {
+        "cz_translation": "Potřebujete pomoci v některé z těchto činností? Stravování Otáčení se na lůžku Hygienická péče Oblékání Vstávání z lůžka Přesun na židli",
+        "cz_transcription": "",
+        "ua_translation": "Вам потрібна допомога в будь-якому з цих видів діяльності? Харчування Повертання на ліжку Гігієнічний догляд Одягання  Вставання з ліжка Переміщення на стілець",
+        "ua_transcription": "Vam potribna dopomoha v buď-jakomu z cych vydiv dijalnosti? Charčuvaňňa Povertaňňa na ližku Hihijeničnyj dohljad Oďahaňňa Vstavaňňa z ližka Peremiščeňňa na stilec"
+    },
+    {
+        "cz_translation": "Potřebujete pomoci s mytím? Pomůžu Vám.",
+        "cz_transcription": "",
+        "ua_translation": "Потрібна допомога з миттям? Дозвольте мені допомогти Вам.",
+        "ua_transcription": "Potribna dopomoha z myťťam? Dozvolte meni dopomohty Vam."
+    },
+    {
+        "cz_translation": "Budete se umývat na lůžku.",
+        "cz_transcription": "",
+        "ua_translation": "Будете умиватися в ліжку.",
+        "ua_transcription": "Budete umyvatysja v ližku."
+    },
+    {
+        "cz_translation": "Doprovodím Vás do koupelny.",
+        "cz_transcription": "",
+        "ua_translation": "Доведу Вас до ванної.",
+        "ua_transcription": "Dovedu Vas do vannoji."
+    },
+    {
+        "cz_translation": "Zvládnete si umýt obličej a genitálie?",
+        "cz_transcription": "",
+        "ua_translation": "Зможете умити обличчя та геніталії?",
+        "ua_transcription": "Zmožete umyty oblyččja ta henitaliji?"
+    },
+    {
+        "cz_translation": "Zvládnete si vyčistit zuby?",
+        "cz_transcription": "",
+        "ua_translation": "Зможете почистити зуби?",
+        "ua_transcription": "Zmožete počystyty zuby?"
+    },
+    {
+        "cz_translation": "Přejete si umýt vlasy?",
+        "cz_transcription": "",
+        "ua_translation": "Хочете помити голову (волосся)?",
+        "ua_transcription": "Chočete pomyty holovu (volossja)?"
+    },
+    {
+        "cz_translation": "Potřebujete ostříhat nehty?",
+        "cz_transcription": "",
+        "ua_translation": "Вам потрібна стрижка нігтів?",
+        "ua_transcription": "Vam potribna stryžka nihtiv?"
+    },
+    {
+        "cz_translation": "Máte s sebou toaletní potřeby?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас туалетні приналежності?",
+        "ua_transcription": "Čy je u Vas tualetni prynaležnosti?"
+    },
+    {
+        "cz_translation": "Chcete namasírovat záda?",
+        "cz_transcription": "",
+        "ua_translation": "Ви хочете масаж спини?",
+        "ua_transcription": "Vy chočete masaž spyny?"
+    },
+    {
+        "cz_translation": "Ustelu Vám postel.",
+        "cz_transcription": "",
+        "ua_translation": "Постелю Вам ліжко.",
+        "ua_transcription": "Postelju Vam ližko."
+    },
+    {
+        "cz_translation": "Po toaletě si pořádně myjte ruce vodou a použijte alkoholovou dezinfekci na ruce.",
+        "cz_transcription": "",
+        "ua_translation": "Після туалету ретельно мийте руки з водою і використовуйте спирт для дезінфекції рук.",
+        "ua_transcription": "Pislja tualetu retelno myjte ruky z vodoju i vykorystovujte spyrt dlja dezinfekciji ruk."
+    },
+    {
+        "cz_translation": "Vezměte si čisté pyžamo.",
+        "cz_transcription": "",
+        "ua_translation": "Візьміть чисту піжаму.",
+        "ua_transcription": "Vizmiť čystu pižamu."
+    },
+    {
+        "cz_translation": "Učešu Vám vlasy.",
+        "cz_transcription": "",
+        "ua_translation": "Причешу Вам  волосся.",
+        "ua_transcription": "Pryčešu Vam volossja"
+    },
+    {
+        "cz_translation": "Pomůžu vám s holením.",
+        "cz_transcription": "",
+        "ua_translation": "Дозвольте мені допомогти Вам з голінням.",
+        "ua_transcription": "Dozvolte meni dopomohty vam z holiňňam."
+    },
+    {
+        "cz_translation": "Používáte brýle? Používáte kontaktní čočky?",
+        "cz_transcription": "",
+        "ua_translation": "Ви носите окуляри? Ви носите контактні лінзи?",
+        "ua_transcription": "Vy nosyte okuljary? Vy nosyte kontaktni linzy?"
+    },
+    {
+        "cz_translation": "Používáte naslouchadlo? Pomůžu Vám nasadit naslouchadlo.",
+        "cz_transcription": "",
+        "ua_translation": "Чи використовуєте Ви слуховий апарат? Допоможу Вам надіти слуховий апарат.",
+        "ua_transcription": "Čy vykorystovujete Vy sluchovyj aparat? DopomožuVam nadity sluchovyj aparat."
+    },
+    {
+        "cz_translation": "Rozumíte mi dobře?",
+        "cz_transcription": "",
+        "ua_translation": "Ви мене добре розумієте?",
+        "ua_transcription": "Vy mene dobre rozumijete?"
+    },
+    {
+        "cz_translation": "Cítíte nějakou bolest?",
+        "cz_transcription": "",
+        "ua_translation": "Чи відчуваєте який-небудь біль?",
+        "ua_transcription": "Čy vidčuvajete jakyj-nebuď bilj?"
+    },
+    {
+        "cz_translation": "Jak silná je Vaše bolest?",
+        "cz_transcription": "",
+        "ua_translation": "Як сильно болить?",
+        "ua_transcription": "Jak sylno bolyť?"
+    },
+    {
+        "cz_translation": "Kde Vás to bolí?",
+        "cz_transcription": "",
+        "ua_translation": "Де у Вас болить?",
+        "ua_transcription": "De u Vas bolyť?"
+    },
+    {
+        "cz_translation": "Potřebujete léky proti bolesti? Dostanete je.",
+        "cz_transcription": "",
+        "ua_translation": "Хочете ліки від болю? Ви їх отримаєте.",
+        "ua_transcription": "Chočete liky vid bolju? Vy jich otrymajete."
+    },
+    {
+        "cz_translation": "Ulevilo se Vám od bolesti po podání léku (analgetika)?",
+        "cz_transcription": "",
+        "ua_translation": "Вам стало легше після прийняття препарату (анальгетику)?",
+        "ua_transcription": "Vam stalo lehše pislja pryjňaťťa preparatu (analhetyku)?"
+    },
+    {
+        "cz_translation": "Neruší bolest Váš spánek?",
+        "cz_transcription": "",
+        "ua_translation": "Біль не заважає Вам спати?",
+        "ua_transcription": "Bilj ne zavažaje Vam spaty?"
+    },
+    {
+        "cz_translation": "Uklidněte se, prosím.",
+        "cz_transcription": "",
+        "ua_translation": "Заспокойтеся, будь ласка.",
+        "ua_transcription": "Zaspokojtesja, buď laska."
+    },
+    {
+        "cz_translation": "Máte nějaké obtíže s dýcháním? (dušnost, kašel)",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас проблеми з диханням? (задишка, кашель).",
+        "ua_transcription": "Čy je u Vas problemy z dychaňňam? (zadyška, kašelj)."
+    },
+    {
+        "cz_translation": "Potřebujete kyslík?",
+        "cz_transcription": "",
+        "ua_translation": "Вам потрібен кисень?",
+        "ua_transcription": "Vam potriben kyseň?"
+    },
+    {
+        "cz_translation": "Podám vám kyslík kyslíkovými brýlemi/maskou.",
+        "cz_transcription": "",
+        "ua_translation": "Надам Вам кисень кисневими окулярами/маскою.",
+        "ua_transcription": "Nadam Vam kyseň kysnevymy okuljaramy/maskoju."
+    },
+    {
+        "cz_translation": "Vykašlávejte do této misky.",
+        "cz_transcription": "",
+        "ua_translation": "Відкашляйтеся до цієї чаши.",
+        "ua_transcription": "Vidkašljajtesja do cijeji čašy"
+    },
+    {
+        "cz_translation": "Zvolna vdechujte tuto inhalaci.",
+        "cz_transcription": "",
+        "ua_translation": "Повільно вдихніть цю інгаляцію.",
+        "ua_transcription": "Poviljno vdychniť cju inhaljaciju."
+    },
+    {
+        "cz_translation": "Vezměte si ústenku.",
+        "cz_transcription": "",
+        "ua_translation": "Візьміть серветку.",
+        "ua_transcription": "Vizmiť servetku."
+    },
+    {
+        "cz_translation": "Léčíte se s vysokým krevním tlakem? Změřím vám krevní tlak. Natáhněte, prosím, paži.",
+        "cz_transcription": "",
+        "ua_translation": "Лікуєтеся від високого кров'яного тиску? Я виміряю Вам артеріальний тиск. Будь ласка, простягніть руку.",
+        "ua_transcription": "Likujetesja vid vysokoho krovjanoho tysku? Ja vymirjaju Vam arterialnyj tysk. Buď laska, prosťahniť ruku."
+    },
+    {
+        "cz_translation": "Změřím Vám pulz.",
+        "cz_transcription": "",
+        "ua_translation": "Я виміряю Ваш пульс",
+        "ua_transcription": "Ja vymirjaju Vaš puls"
+    },
+    {
+        "cz_translation": "Změřím Vám tělesnou teplotu.",
+        "cz_transcription": "",
+        "ua_translation": "Я виміряю Вам температуру тіла.",
+        "ua_transcription": "Ja vymirjaju Vam temperaturu tila."
+    },
+    {
+        "cz_translation": "Připojím Vás k trvalé monitoraci.",
+        "cz_transcription": "",
+        "ua_translation": "Підключу Вас до постійного моніторингу.",
+        "ua_transcription": "Pidključu Vas do postijnoho monitorynhu."
+    },
+    {
+        "cz_translation": "Tento kolíček monitoruje dýchání. Ponechte si ho na prstě.",
+        "cz_transcription": "",
+        "ua_translation": "Цей штир відстежує дихання. Тримайте його на пальці.",
+        "ua_transcription": "Cej štyr vidstežuje dychaňňa. Trymajte joho na paljci."
+    },
+    {
+        "cz_translation": "Kolik vážíte a měříte?",
+        "cz_transcription": "",
+        "ua_translation": "Скільки важите, який маєте зріст?",
+        "ua_transcription": "Skilky važyte, jakyj majete zrist?"
+    },
+    {
+        "cz_translation": "Stoupněte si, prosím, na váhu.",
+        "cz_transcription": "",
+        "ua_translation": "Будь ласка, встаньте на ваги.",
+        "ua_transcription": "Buď laska, vstaňte na vahy."
+    }
+]

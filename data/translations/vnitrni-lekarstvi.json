@@ -1,0 +1,560 @@
+[
+    {
+        "cz_translation": "Dobrý den, jmenuji se …, jsem lékař / zdravotní sestra.",
+        "cz_transcription": "",
+        "ua_translation": "Добрий день, мене звуть …, я лікар / медична сестра.",
+        "ua_transcription": "Dobryj deň, mene zvuť …, ja likar / medyčna sestra."
+    },
+    {
+        "cz_translation": "Můžete nám dát kontakt na někoho, kdo je schopen tlumočit po telefonu?",
+        "cz_transcription": "",
+        "ua_translation": "Чи можете Ви дати нам контакт когось, хто здатний перекладати по телефону?",
+        "ua_transcription": "Čy možete Vy daty nam kontakt kohos, chto zdatnyj perekladaty po telefonu?"
+    },
+    {
+        "cz_translation": "Napište mi, prosím, Vaše jméno a datum narození.",
+        "cz_transcription": "",
+        "ua_translation": "Напишіть мені, будь ласка, Ваше ім'я і дату народження",
+        "ua_transcription": "Napyšiť meni, buď laska, Vaše imja i datu narodžeňňa."
+    },
+    {
+        "cz_translation": "Máte nějaký doklad totožnosti? Máte zdravotní pojištění? Máte doklad o zdravotním pojištění?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас документ, що засвідчує особу? У Вас є медична страховка? У Вас є підтвердження про медичне страхування?",
+        "ua_transcription": "Čy je u Vas dokument, ščo zasvidčuje osobu? U Vas je medyčna strachovka? U Vas je pidtverdžeňňa pro medyčne strachuvaňňa?"
+    },
+    {
+        "cz_translation": "Napište, prosím, Vaši adresu. Uveďte, prosím, kontakt na Vaše blízké, kteří se o Vás mohou postarat.",
+        "cz_transcription": "",
+        "ua_translation": "Напишіть свою адресу, будь ласка. Будь ласка, вкажіть контакт Ваших близьких, які можуть піклуватися про Вас.",
+        "ua_transcription": "Napyšiť svoju adresu, buď laska. Buď laska, vkažiť kontakt Vašych blyzkych, jaki možuť pikluvatysja pro Vas."
+    },
+    {
+        "cz_translation": "Jste v České republice registrován/a u praktického lékaře? Napište mi, prosím, jeho jméno a kontaktní údaje.",
+        "cz_transcription": "",
+        "ua_translation": "Ви в Чеській Республіці зареєстровані у дільничного лікаря?",
+        "ua_transcription": "Vy v Českij Respublici zarejestrovani u dilnyčnoho likarja?"
+    },
+    {
+        "cz_translation": "Byl/a jste už v České republice vyšetřen/a u nějakého lékaře? Napište mi, prosím, jeho jméno a kontaktní údaje.",
+        "cz_transcription": "",
+        "ua_translation": "Ви були в Чехії оглянуті лікарем? Напишіть його ім'я та контактні дані.",
+        "ua_transcription": "Vy buly v Čechiji ohljanuti likarem? Napyšiť joho imja ta kontaktni dani."
+    },
+    {
+        "cz_translation": "S jakými obtížemi přicházíte? Co Vás trápí?",
+        "cz_transcription": "",
+        "ua_translation": "З якими проблемами Ви прийшли? Що Вас турбує?",
+        "ua_transcription": "Z jakymy problemamy Vy pryjšly? Ščo Vas turbuje?"
+    },
+    {
+        "cz_translation": "Jak dlouho Vaše obtíže trvají (den, týden, měsíc, rok)?",
+        "cz_transcription": "",
+        "ua_translation": "Як довго Ваші проблеми тривають (день, тиждень, місяць, рік)?",
+        "ua_transcription": "Jak dovho Vaši problemy tryvajuť (deň, tyždeň, misjac, rik)?"
+    },
+    {
+        "cz_translation": "Léčíte se či jste sledován/a v souvislosti s nějakým chronickým onemocněním?",
+        "cz_transcription": "",
+        "ua_translation": "Лікуєтесь Ви або спостерігаєтесь у лікаря у зв'язку з якими-небудь хронічними захворюваннями?",
+        "ua_transcription": "Likujetes Vy abo sposterihajetes u likarja u zvjazku z jakymy-nebuď chroničnymy zachvorjuvaňňamy?"
+    },
+    {
+        "cz_translation": "Léčíte se s vysokým krevním tlakem? Pokud ano, jak dlouho?",
+        "cz_transcription": "",
+        "ua_translation": "Чи лікуєтесь від високого кров'яного тиску?",
+        "ua_transcription": "Čy likujetes vid vysokoho krovjanoho tysku?"
+    },
+    {
+        "cz_translation": "Léčíte se s cukrovkou (diabetes mellitus)? Pokud ano, jak dlouho?",
+        "cz_transcription": "",
+        "ua_translation": "Чи лікуєтесь від діабету (diabetes mellitus)?  Якщо так, як довго?",
+        "ua_transcription": "Čy likujetes vid diabetu (diabetes mellitus)?  Jakščo tak, jak dovho?"
+    },
+    {
+        "cz_translation": "Máte ischemickou chorobu srdeční?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас ішемічна хвороба серця?",
+        "ua_transcription": "Čy je u Vas išemična chvoroba sercja?"
+    },
+    {
+        "cz_translation": "Měl/a jste infarkt myokardu v minulosti?",
+        "cz_transcription": "",
+        "ua_translation": "Ви перенесли інфаркт міокарда в минулому?",
+        "ua_transcription": "Vy perenesly infarkt miokarda v mynulomu?"
+    },
+    {
+        "cz_translation": "Měl/a jste plicní embolii v minulosti? Pokud ano, kdy to bylo?",
+        "cz_transcription": "",
+        "ua_translation": "Ви мали легеневу емболію в минулому? Якщо так, коли це було?",
+        "ua_transcription": "Vy maly lehenevu emboliju v mynulomu?  Jakščo tak, koly ce bulo?"
+    },
+    {
+        "cz_translation": "Léčíte se s dalším onemocnění srdce a cév (chlopenní vada, srdeční selhávání, arytmie)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи лікуєтеся з іншими серцево-судинними захворюваннями (хвороби клапана, серцевої недостатності, аритмії)?",
+        "ua_transcription": "Čy likujetesja z inšymy sercevo-sudynnymy zachvorjuvaňňamy (chvoroby klapana, sercevoji nedostatnosti, arytmiji)?"
+    },
+    {
+        "cz_translation": "Léčíte se s onemocněním plic? Pokud ano, s jakým?",
+        "cz_transcription": "",
+        "ua_translation": "Чи лікуєтеся із захворюванням легенів?",
+        "ua_transcription": "Čy likujetesja iz zachvorjuvaňňam leheniv?"
+    },
+    {
+        "cz_translation": "Léčíte se s onemocněním trávicího systému? Pokud ano, s jakým?",
+        "cz_transcription": "",
+        "ua_translation": "Чи Ви лікуєтеся із захворюваннями травної системи?",
+        "ua_transcription": "Čy Vy likujetesja iz zachvorjuvaňňamy travnoji systemy?"
+    },
+    {
+        "cz_translation": "Měl/a jste vřed žaludku/dvanácterníku? Pokud ano, kdy to bylo?",
+        "cz_transcription": "",
+        "ua_translation": "Чи мали Ви виразку шлунку / дванадцятипалої кишки?",
+        "ua_transcription": "Čy maly Vy vyrazku šlunku / dvanadcjatypaloji kyšky?"
+    },
+    {
+        "cz_translation": "Léčíte se s onemocněním nervového systému? Pokud ano, s jakým?",
+        "cz_transcription": "",
+        "ua_translation": "Чи лікуєтеся з розладом нервової системи?",
+        "ua_transcription": "Čy likujetesja z rozladom nervovoji systemy?"
+    },
+    {
+        "cz_translation": "Léčíte se s onemocněním močopohlavního systému? Pokud ano, s jakým?",
+        "cz_transcription": "",
+        "ua_translation": "Лікуєтеся із захворюваннями сечостатевої системи?",
+        "ua_transcription": "Čy likujetesja iz zachvorjuvaňňamy sečostatevoji systemy?"
+    },
+    {
+        "cz_translation": "Léčíte se s onemocněním onemocnění štítné žlázy? Pokud ano, s jakým?",
+        "cz_transcription": "",
+        "ua_translation": "Чи лікуєтеся із захворюваннями щитовидної залози? Якщо так, то з якими?",
+        "ua_transcription": "Čy likujetesja iz zachvorjuvaňňamy ščytovydnoji zalozy? Jakščo tak, to z jakymy?"
+    },
+    {
+        "cz_translation": "Léčíte se s onemocněním jater? Pokud ano, s jakým a jak dlouho?",
+        "cz_transcription": "",
+        "ua_translation": "Лікуєтеся із захворюваннями печінки? Якщо так, то як довго?",
+        "ua_transcription": "Čy likujetesja iz zachvorjuvaňňamy pečinky? Jakščo tak, to jak dovho?"
+    },
+    {
+        "cz_translation": "Léčíte se s onemocněním ledvin? Pokud ano, s jakým?",
+        "cz_transcription": "",
+        "ua_translation": "Лікуєтеся із захворюваннями нирок? Якщо так, то з якими?",
+        "ua_transcription": "Čy likujetesja iz zachvorjuvaňňamy nyrok? Jakščo tak, to z jakymy?"
+    },
+    {
+        "cz_translation": "Máte poruchy srážlivosti krve?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас порушення згортання крові?",
+        "ua_transcription": "Čy je u Vas porušeňňa zhortaňňa krovi?"
+    },
+    {
+        "cz_translation": "Léčíte se či léčil/a jste se v souvislosti s nádorovým onemocněním? Pokud ano, jaký nádor? Jaká byla léčba (operace, radioterapie, chemoterapie)? Jak dlouho trvala? Jste stále léčen/a či sledován/a (kde, kým, kdy proběhla poslední kontrola a s jakým výsledkem)?",
+        "cz_transcription": "",
+        "ua_translation": "Лікуєтеся чи лікувалися Ви у зв'язку з раком? Якщо так, то яка була пухлина? Яке було лікування? (хірургічне, променева терапія, хіміотерапія)? Як довго тривало? Ви як і раніше лікуєтесь або відстежуєтесь (де, ким, коли був останній огляд та його результат)?",
+        "ua_transcription": "Likujetesja čy likuvalysja Vy u zvjazku z rakom? Jakščo tak, to jaka bula puchlyna? Jake bulo likuvaňňa? (chirurhične, promeneva terapija, chimioterapija)? Jak dovho likuvaňňa tryvalo? Vy jak i raniše likujetes abo sposterihajetes (de, kym, koly buv ostannij ohljad ta joho rezultat)?"
+    },
+    {
+        "cz_translation": "Jaká jste prodělal/a další infekční či neinfekční onemocnění?",
+        "cz_transcription": "",
+        "ua_translation": "Які ще у Вас були інфекційні та неінфекційні захворювання?",
+        "ua_transcription": "Jaki šče u Vas buly infekcijni ta neinfekcijni zachvorjuvaňňa?"
+    },
+    {
+        "cz_translation": "Byl/a či jste léčen/a či sledován/a v souvislosti s vrozenou vývojovou vadou? Pokud ano, jakou?",
+        "cz_transcription": "",
+        "ua_translation": "Ви лікувались або спостерігались у зв'язку з вродженим дефектом?",
+        "ua_transcription": "Vy likuvalys abo sposterihalys u zvjazku z vrodženym defektom?"
+    },
+    {
+        "cz_translation": "Prodělal/a jste nějaké operace? Pokud ano, jaké? Kdy to bylo?",
+        "cz_transcription": "",
+        "ua_translation": "У Вас були операції? Якщо так, то які операції? Коли це було?",
+        "ua_transcription": "U Vas buly operaciji? Jakščo tak, to jaki operaciji? Koly ce bulo?"
+    },
+    {
+        "cz_translation": "Prodělal/a jste nějaké závažnější úrazy (úrazy hlavy s bezvědomím, zlomeniny či jiné)?",
+        "cz_transcription": "",
+        "ua_translation": "У Вас були серйозні травми (черепно-мозкова травма з втратою свідомості, переломи або інші)",
+        "ua_transcription": "U Vas buly serjozni travmy (čerepno-mozkova travma z vtratoju svidomosti, perelomy abo inši)."
+    },
+    {
+        "cz_translation": "Víte, kolik vážíte? Víte, kolik měříte? Pozorujete v poslední době výraznější změny tělesné váhy (hubnutí, tloustnutí)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи знаєте Ви, скільки Ви важите? Ви знаєте свій зріст? Чи спостерігаєте останнім часом значні зміни в масі тіла (втрата ваги, збільшення ваги)?",
+        "ua_transcription": "Čy znajete Vy, skilky Vy važyte? Vy znajete svij zrist? Čy sposterihajete ostannim časom značni zminy v masi tila (vtrata vahy, zbilšeňňa vahy)?"
+    },
+    {
+        "cz_translation": "Máte chuť k jídlu?",
+        "cz_transcription": "",
+        "ua_translation": "Ви маєте апетит?",
+        "ua_transcription": "Vy majete apetyt?"
+    },
+    {
+        "cz_translation": "Máte často nutkání na zvracení?",
+        "cz_transcription": "",
+        "ua_translation": "Вам часто хочеться блювати?",
+        "ua_transcription": "Vam často chočeťsja bljuvaty?"
+    },
+    {
+        "cz_translation": "Zvracíte? Pokud ano, jak často? Pozoroval/a jste krev nebo jinou příměs (žluč) ve zvratkách?",
+        "cz_transcription": "",
+        "ua_translation": "Ви блюєте? Якщо так, то як часто? Ви бачили кров або інші домішки (жовч) у блювотних масах?",
+        "ua_transcription": "Vy bljujete?Jakščo tak, to jak často? Vy bačyly krov abo inši domišky (žovč) u bljuvotnych masach?"
+    },
+    {
+        "cz_translation": "Máte nějaká dietní opatření? Z jakého důvodu?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас які-небудь обмеження в харчуванні?",
+        "ua_transcription": "Čy je u Vas jaki-nebuď obmežeňňa v charčuvanni?"
+    },
+    {
+        "cz_translation": "Kdy jste naposledy jedl/a a pil/a?",
+        "cz_transcription": "",
+        "ua_translation": "Коли Ви востаннє пили / їли?",
+        "ua_transcription": "Koly Vy vostaňně pyly / jily?"
+    },
+    {
+        "cz_translation": "Máte obtíže s vyprazdňováním (zácpa, průjem)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас  проблеми зі спорожненням (запор, діарея)?",
+        "ua_transcription": "Čy je u Vas jaki-nebuď problemy zi sporožneňňam (zapor daireja)?"
+    },
+    {
+        "cz_translation": "Jak často máte stolici? Kdy jste byl/a naposledy na stolici?",
+        "cz_transcription": "",
+        "ua_translation": "Як часто випорожнюєтесь? Коли Ви ходили випорожнитися в останній раз?",
+        "ua_transcription": "Jak často vyporožnjujetes? Koly Vy chodyly vyporožnytysja v ostannij raz?"
+    },
+    {
+        "cz_translation": "Pozorujete krev či hlen ve stolici?",
+        "cz_transcription": "",
+        "ua_translation": "Спостерігається кров або слиз у випорожненнях?",
+        "ua_transcription": "Sposterihajeťsa krov abo slyz u vyporožneňňach?"
+    },
+    {
+        "cz_translation": "Pozorujete v poslední době nějaké změny stolice (změna barvy, řídká stolice, tuhá stolice, nestrávené kousky potravy, střídání zácpy a průjmu)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи були нещодавно які-небудь зміни в дефекації? (зміна кольору, рідкі випорожнення, тверді випорожнення,, неперетравлені шматочки їжі, чергування запору та діареї)?",
+        "ua_transcription": "Čy buly neščodavno jaki-nebuď zminy v defekaciji? (zmina koljoru, ridki vyporožneňňa, tverdi vyporožneňňa, neperetravleni šmatočky jiži, čerhuvaňňa"
+    },
+    {
+        "cz_translation": "Odchází Vám větry?",
+        "cz_transcription": "",
+        "ua_translation": "Відходять у Вас гази?",
+        "ua_transcription": "Vidchoďať u Vas hazy?"
+    },
+    {
+        "cz_translation": "Máte obtíže s močením (pálení či řezání při močení, obtížné vyprazdňování, bolest při vyprazdňování, časté nutkání k močení)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи маєте проблеми із сечовипусканням (різання або печіння під час сечовипускання, утруднення випорожнення, болі під час дефекації, часті позиви до сечовипускання)?",
+        "ua_transcription": "Čy majete problemy iz sečovypuskaňňam (rizaňňa abo pečiňňa pid čas sečovypuskaňňa, utrudneňňa vyporožneňňa, boli pid čas defekaciji, časti pozyvy do sečovypuskaňňa)?"
+    },
+    {
+        "cz_translation": "Kdy jste naposledy močila?",
+        "cz_transcription": "",
+        "ua_translation": "Коли Ви помочилися востаннє?",
+        "ua_transcription": "Koly Vy pomočylysja vostaňně?"
+    },
+    {
+        "cz_translation": "Pozorujete krev v moči?",
+        "cz_transcription": "",
+        "ua_translation": "Ви помітили кров у сечі?",
+        "ua_transcription": "Vy pomityly krov u seči?"
+    },
+    {
+        "cz_translation": "Máte problémy s udržením moči nebo stolice?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас проблеми з нетриманням сечі або  випорожнень?",
+        "ua_transcription": "Čy je u Vas problemy z netrymaňňam seči abo vyporožneň?"
+    },
+    {
+        "cz_translation": "Užíváte inkontinenční pomůcky (pleny, vložky)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи використовуєте засоби при нетриманні (підгузники, прокладки)?",
+        "ua_transcription": "Čy vykorystovujete zasoby pry netrymanni (pidhuznyky, prokladky)?"
+    },
+    {
+        "cz_translation": "Máte obtíže s rovnováhou?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас проблеми з рівновагою?",
+        "ua_transcription": "Čy je u Vas problemy z rivnovahoju?"
+    },
+    {
+        "cz_translation": "Máte pocit tahu (doleva, doprava, dopředu, dozadu)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи відчуваєте, що Вас тягне (ліворуч, праворуч, вперед, назад)?",
+        "ua_transcription": "Čy vidčuvajete, ščo Vas ťahne(livoruč, pravoruč, vpered, nazad)?"
+    },
+    {
+        "cz_translation": "Máte varixy (křečové žíly)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас варикозне розширення вен?",
+        "ua_transcription": "Čy je u Vas varykozne rozšyreňňa ven?"
+    },
+    {
+        "cz_translation": "Otékají Vám dolní končetiny?",
+        "cz_transcription": "",
+        "ua_translation": "У Вас набрякають нижні кінцівки?",
+        "ua_transcription": "U Vas nabrjakajuť nyžni kincivky?"
+    },
+    {
+        "cz_translation": "Máte problémy se spánkem? Jaké (problém s usínáním, časné či časté probouzení, noční pocení)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас проблеми зі сном?",
+        "ua_transcription": "Čy je u Vas problemy zi snom?"
+    },
+    {
+        "cz_translation": "Kolik hodin denně spíte?",
+        "cz_transcription": "",
+        "ua_translation": "Скільки годин на день Ви спите?",
+        "ua_transcription": "Skilky hodyn na deň Vy spyte?"
+    },
+    {
+        "cz_translation": "Používáte kompenzační pomůcky (brýle na dálku, brýle na blízko, hůl, invalidní vozík, naslouchátko, ortéza)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи використовуєте пристрої для підтримки здоров’я (окуляри для дальнозоркості чи близорукості, клюку, інвалідний візок, слуховий апарат, ортези)?",
+        "ua_transcription": "Čy vykorystovujete prystroji dlja pidtrymky zdorovja (okuljary dlja daljnozorkosti či blyzorukosti, kljuku, invalidnyj vizok, sluchovyj aparat, ortezy)?"
+    },
+    {
+        "cz_translation": "Potřebujete pomoci s oblékáním, jídlem, osobní hygienou, použitím WC?",
+        "cz_transcription": "",
+        "ua_translation": "Чи потрібна Вам допомога з одяганням, їжею, особистою гігієною, користуванням туалетом?",
+        "ua_transcription": "Čy potribna Vam dopomoha z oďahaňňam, jižeju, osobystoju hihijenoju, korystuvaňňam tualetom?"
+    },
+    {
+        "cz_translation": "Potřebujete pomoci s přesunem na lůžko (židli)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи необхідна Вам допомога з переміщенням на ліжко (стілець)?",
+        "ua_transcription": "Čy neobchidna Vam dopomoha z peremiščeňňam na ližko (stilec)?"
+    },
+    {
+        "cz_translation": "Kolik metrů po rovině ujdete? Potřebujete doprovod při chůzi?",
+        "cz_transcription": "",
+        "ua_translation": "Скільки метрів Ви пройдете по рівній поверхні? Вам необхідна допомога при ходьбі?",
+        "ua_transcription": "Skilky metriv Vy projdete po rivnij poverchni? Vam neobchidna dopomoha pry choďbi?"
+    },
+    {
+        "cz_translation": "Máte obtíže s orientací v prostoru?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас труднощі з орієнтацією в просторі?",
+        "ua_transcription": "Čy je u Vas trudnošči z orijentacijeju v prostori?"
+    },
+    {
+        "cz_translation": "Pozorujete zvýšenou tělesnou teplotu? Jak dlouho?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас підвищення температури тіла?",
+        "ua_transcription": "Čy je u Vas pidvyščeňňa temperatury tila?"
+    },
+    {
+        "cz_translation": "Pozorujete výtok (oči, uši, nos, ústa, vagína, konečník, prsní bradavka)? Jak dlouho?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас якісь виділення (очі, вуха, ніс, рот, піхва, пряма кишка, грудні соск",
+        "ua_transcription": "Čy je u Vas jakis vydileňňa (oči, vucha, nis, rot, pichva, prjama kyška, hrudni sosk"
+    },
+    {
+        "cz_translation": "Máte obtíže s dýcháním? Jak dlouho?",
+        "cz_transcription": "",
+        "ua_translation": "Маєте проблеми з диханням?",
+        "ua_transcription": "Majete problemy z dychaňňam?"
+    },
+    {
+        "cz_translation": "Došlo v posledních dnech (hodinách) ke zhoršení?",
+        "cz_transcription": "",
+        "ua_translation": "Чи відбулося в останні дні (години) погіршення?",
+        "ua_transcription": "Čy vidbulosja v ostanni dni (hodyny) pohiršeňňa?"
+    },
+    {
+        "cz_translation": "Máte pocit dušnosti?",
+        "cz_transcription": "",
+        "ua_translation": "Маєте задишку?",
+        "ua_transcription": "Majete zadyšku?"
+    },
+    {
+        "cz_translation": "Máte kašel? Jak dlouho kašlete (dny, týdny, měsíce)?",
+        "cz_transcription": "",
+        "ua_translation": "Маєте кашель? Як довго Ви кашляєте (днів, тижнів, місяців)?",
+        "ua_transcription": "Majete kašelj? Jak dovho Vy kašljajete (dniv, tyžniv, misjaciv)?"
+    },
+    {
+        "cz_translation": "Vykašláváte něco (řídké sputum, vazké sputum, bílé sputum, žluté sputum, krev)?",
+        "cz_transcription": "",
+        "ua_translation": "Щось відкашлюєте (рідке мокротиння, в'язке мокротиння, біле мокротиння, жовте мокротиння, кров)?",
+        "ua_transcription": "Ščos vidkašljujete (ridke mokrotyňňa, vjazke mokrotyňňa, bile mokrotyňňa, žovte mokrotyňňa, krov)?"
+    },
+    {
+        "cz_translation": "Víte jaký je den/měsíc/roční období/rok? Víte, kde se nyní nacházíte (město, země)?",
+        "cz_transcription": "",
+        "ua_translation": "Ви знаєте, що сьогодні за день / місяць / сезон / рік? Ви знаєте, де Ви знаходитесь (місто, держава)?",
+        "ua_transcription": "Vy znajete, ščo sjohodni za deň / misjac / sezon / rik?"
+    },
+    {
+        "cz_translation": "Víte, jaký míváte krevní tlak (v normě, vysoký, nízký)?",
+        "cz_transcription": "",
+        "ua_translation": "Ви знаєте, який у Вас кров'яний тиск (нормальний, високий, низький)?",
+        "ua_transcription": "Vy znajete, jakyj u Vas krovjanyj tysk (normalnyj, vysokyj, nyzkyj)?"
+    },
+    {
+        "cz_translation": "Jakou jste měl poslední hodnotu krevního tlaku?",
+        "cz_transcription": "",
+        "ua_translation": "Який у Вас був останній кров'яний тиск?",
+        "ua_transcription": "Jakyj u Vas buv ostannij krovjanyj tysk?"
+    },
+    {
+        "cz_translation": "Vyskytlo se u Vašich blízkých nějaké závažné onemocnění (nádorové onemocnění; kardiovaskulární onemocnění – infarkt; cerebrovaskulární onemocnění – mrtvice; metabolické onemocnění – cukrovka; psychické onemocnění – deprese, psychóza; gynekologické onemocnění)?",
+        "cz_transcription": "",
+        "ua_translation": "Чи були у Ваших родичів якісь серйозні захворювання (рак, серцево-судин захворювання – інфаркт, цереброваскулярні захворювання – інсульт, хвороби обміну речовин – цукровий діабет, психічні захворювання – депресія, психоз, гінекологічні захворювання)?",
+        "ua_transcription": "Čy buly u Vašych rodyčiv jakis serjozni zachvorjuvaňňa (rak, sercevo-sudynni zachvorjuvaňňa – infarkt, cerebrovaskuljarni zachvorjuvaňňa – insult, chvoroby obminu rečovyn – cukrovyj diabet, psychični zachvorjuvaňňa – depresija, psychoz, hinekolohični zachvorjuvaňňa)?"
+    },
+    {
+        "cz_translation": "Jste na něco alergický/á (léky, kontrastní látky, dezinfekční prostředky, náplasti, zvířata, peří, bodnutí hmyzem, prach, pyl, potraviny či jiné látky)?",
+        "cz_transcription": "",
+        "ua_translation": "Ви маєте алергію на що-небудь (наркотики, контрастні агенти, дезинфікуючі засоби, пластирі, тварини, пір'я, укуси комах, пил, пилок, продукти харчування або інші речовини)?",
+        "ua_transcription": "Vy majete alerhiju na ščo-nebuď (narkotyky, kontrastni ahenty, dezynfikujuči zasoby, plastyri, tvaryny, pirja, ukusy komach, pyl, pylok,  produkty charčuvaňňa abo inši rečovyny)?/"
+    },
+    {
+        "cz_translation": "Jak Vaše alergická reakce vypadá (vyrážka, svědění kůže, svědění očí, slzení očí, svědění v krku, svědění v nose, otok, dechové obtíže, rýma, kýchání, kašel, mdloby, bolesti břicha, průjem, zvracení)?",
+        "cz_transcription": "",
+        "ua_translation": "Як виглядає Ваша алергічна реакція (висип, свербіж шкіри, свербіж очей, сльозотеча, свербіж у горлі, свербіж у носі, набряк, утруднене дихання, нежить, чхання, кашель, запаморочення, біль у животі, діарея, блювота)?",
+        "ua_transcription": "Jak vyhljadaje Vaša alerhična reakcija (vysyp, sverbiž škiry, sverbiž očej, sljozoteča, sverbiž u horli, sverbiž u nosi, nabrjak, utrudnene dychaňňa, nežyť, čchaňňa, kašelj, zapamoročeňňa, bilj u žyvoti, diareja, bljuvaňňa)?"
+    },
+    {
+        "cz_translation": "Užíváte nějaké léky předepsané lékařem?",
+        "cz_transcription": "",
+        "ua_translation": "Чи приймаєте які-небудь  ліки, приписані лікарем?",
+        "ua_transcription": "Čy pryjmajete jaki-nebuď liky, prypysani likarem?"
+    },
+    {
+        "cz_translation": "Napište mi, prosím, jejich název, lékovou formu (tzn., zda se jedná o kapky, kapsle, tablety) a jak je užíváte (kolikrát denně, kolikrát týdně).",
+        "cz_transcription": "",
+        "ua_translation": "Будь ласка, напишіть найменування, лікарську форму (тобто, чи це краплі, капсули, таблетки) і використання (скільки разів на день, скільки разів на тиждень)",
+        "ua_transcription": "Buď laska, napyšiť najmenuvaňňa, likarsku formu (tobto, čy ce krapli, kapsuly, tabletky) i vykorystaňňa (skilky raziv na deň, skilky raziv na tyždeň)."
+    },
+    {
+        "cz_translation": "Užíváte nějaké další léky?",
+        "cz_transcription": "",
+        "ua_translation": "Чи приймаєте будь-які інші ліки?",
+        "ua_transcription": "Čy pryjmajete buď-jaki inši liky?"
+    },
+    {
+        "cz_translation": "Užíváte léky na ředění krve?",
+        "cz_transcription": "",
+        "ua_translation": "Ви приймаєте препарати для розрідження крові?",
+        "ua_transcription": "Vy pryjmajete preparaty dlja rozridžeňňa krovi?"
+    },
+    {
+        "cz_translation": "Užíváte tento lék trvale?",
+        "cz_transcription": "",
+        "ua_translation": "Приймаєте цей препарат постійно?",
+        "ua_transcription": "Pryjmajete cej preparat postijno?"
+    },
+    {
+        "cz_translation": "Užíváte tento lék pouze při obtížích?",
+        "cz_transcription": "",
+        "ua_translation": "Приймаєте цей препарат лише при загостреннях?",
+        "ua_transcription": "Pryjmajete cej preparat lyše pry zahostreňňach?"
+    },
+    {
+        "cz_translation": "Kdy naposledy jste tento lék užil/a?",
+        "cz_transcription": "",
+        "ua_translation": "Коли востаннє Ви приймали цей препарат?",
+        "ua_transcription": "Koly vostaňněVy pryjmaly cej preparat?"
+    },
+    {
+        "cz_translation": "Máte nějaké léky u sebe?",
+        "cz_transcription": "",
+        "ua_translation": "Чи є у Вас з собою які-небудь препарати?",
+        "ua_transcription": "Čy je u Vas z soboju jaki-nebuď preparaty?"
+    },
+    {
+        "cz_translation": "Změnil/a jste v nedávné době u nějakého léku dávkování?",
+        "cz_transcription": "",
+        "ua_translation": "Ви змінювали останнім часом  дозу ліків?",
+        "ua_transcription": "Vy zmiňuvaly  ostannim časom dozu likiv?"
+    },
+    {
+        "cz_translation": "Vysadil/a jste v poslední době nějaký lék?",
+        "cz_transcription": "",
+        "ua_translation": "Ви перестали приймати нещодавно  якісь ліки?",
+        "ua_transcription": "Vy perestaly pryjmaty neščodavno jakis liky?"
+    },
+    {
+        "cz_translation": "Provedl jste změnu v užívání léku sám? Na radu lékaře?",
+        "cz_transcription": "",
+        "ua_translation": "Чи Ви вносили зміни у використання самого препарату?",
+        "ua_transcription": "Čy Vy vnosyly zminy u vykorystaňňa samoho preparatu?"
+    },
+    {
+        "cz_translation": "Jaké infekční onemocnění jste prodělal/a?",
+        "cz_transcription": "",
+        "ua_translation": "Якими інфекційними захворюваннями Ви хворіли?",
+        "ua_transcription": "Jakymy infekcijnymy zachvorjuvaňňamy Vy chvorily?"
+    },
+    {
+        "cz_translation": "Trpíte v současnosti nějakým infekčním onemocněním?",
+        "cz_transcription": "",
+        "ua_translation": "В даний час страждаєте від інфекційних захворювань?",
+        "ua_transcription": "V danyj čas straždajete vid infekcijnych zachvorjuvaň?"
+    },
+    {
+        "cz_translation": "Jste někde léčen/a (sledován/a)? Kde?",
+        "cz_transcription": "",
+        "ua_translation": "Ви коли-небудь лікувалися (спостерігалися у лікаря)?",
+        "ua_transcription": "Vy koly-nebuď likuvalysja (sposterihalysja u likarja)?"
+    },
+    {
+        "cz_translation": "Přišel/přišla jste v poslední době do styku s osobou, u které se vyskytlo či vyskytuje nakažlivé onemocnění (žloutenka, tuberkulóza, průjmové onemocnění, pohlavní onemocnění)? Kde?",
+        "cz_transcription": "",
+        "ua_translation": "Чи був у Вас нещодавно контакт з людиною, у якої інфекційне захворювання (гепатит, туберкульоз, шлунково-кишкові захворювання, венеричні хвороби)?",
+        "ua_transcription": "Čy buv u Vas neščodavno kontakt z ljudynoju, u jakoji infekcijne zachvorjuva (hepatyt, tuberkuljoz, šlunkovo-kyškovi zachvorjuvaňňa, veneryčni chvoroby?"
+    },
+    {
+        "cz_translation": "Měl/a jste v poslední době přisáté klíště?",
+        "cz_transcription": "",
+        "ua_translation": "Вас нещодавно укусив кліщ?",
+        "ua_transcription": "Vas neščodavno ukusyv klišč?"
+    },
+    {
+        "cz_translation": "Cestoval/a jste v poslední době do rozvojových zemí? Kam?",
+        "cz_transcription": "",
+        "ua_translation": "Чи їздили Ви нещодавно в країни, що розвиваються?",
+        "ua_transcription": "Čy jizdyly Vy neščodavnov krajiny, ščo rozvyvajuťsja?"
+    },
+    {
+        "cz_translation": "Jste chovatelem zvířat (ptáci, kočky, psi atd.)?",
+        "cz_transcription": "",
+        "ua_translation": "Ви заводчик тварин (птахів, кішок, собак і т.д.)?",
+        "ua_transcription": "Vy zavodčyk tvaryn (ptachiv, kišok, sobak i t.d.)."
+    },
+    {
+        "cz_translation": "Proti jakým onemocněním jste byl/a očkován/a? Máte očkovací průkaz?",
+        "cz_transcription": "",
+        "ua_translation": "Проти яких захворювань Ви були щеплені? Чи є у Вас картка щеплень?",
+        "ua_transcription": "Proty jakych zachovrjuvaň Vy buly ščepleni? Čy je u Vas kartka ščepleň."
+    },
+    {
+        "cz_translation": "Kouříte? Kolik let kouříte? Kolik cigaret za den vykouříte? Jak dlouho nekouříte?",
+        "cz_transcription": "",
+        "ua_translation": "Скільки років Ви палите? Скільки цигарок у день Ви палите? Як довго Ви не палите?",
+        "ua_transcription": "Skilky  rokiv  Vy  palyte?  Skilky  cyharok  u  deň  Vy  palyte?  Jak  dovho  Vy  ne palyte?"
+    },
+    {
+        "cz_translation": "Pijete alkohol příležitostně nebo pravidelně? Jaký druh nejčastěji? Kolik piv/vína denně/týdně vypijete? Jaké množství destilátu denně/týdně vypijete?",
+        "cz_transcription": "",
+        "ua_translation": "Ви вживаєте алкоголь іноді або регулярно? Який вид алкоголю найбільш часто? Скільки пива на день / тиждень Ви п'єте? Скільки літрів вина на день / тиждень Ви п'єте? Яку кількість міцного алкоголю на день / тиждень Ви п'єте?",
+        "ua_transcription": "Vy  vžyvajete  alkohol  inodi  abo  rehuljarno?  Jak  najbilš  často?  Skilky  pyva  na  deň  / tyždeň  Vy  pjete?  Skilky  litriv  vyna  na  deň  /  tyždeň  Vy  pjete?  Jaku  kilkisť  micnoho alkoholju na deň / tyždeň Vy pjete?"
+    },
+    {
+        "cz_translation": "Pijete kávu?",
+        "cz_transcription": "",
+        "ua_translation": "Ви п'єте каву?",
+        "ua_transcription": "Vy pjete kavu?"
+    },
+    {
+        "cz_translation": "Užíváte jiné návykové látky než alkohol, tabák či kávu? O jaké látky se jedná?",
+        "cz_transcription": "",
+        "ua_translation": "Вживаєте інші речовини, ніж алкоголь, тютюн або каву?",
+        "ua_transcription": "Vžyvajete inši rečovyny, niž alkohol, ťuťun abo kavu?"
+    }
+]
